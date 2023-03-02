@@ -30,6 +30,38 @@ CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj: \
  D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_cortex.h \
  D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_flash.h \
  D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_flash_ex.h \
+ D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_i2c.h \
  D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_pwr.h \
+ D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_tim.h \
+ D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_tim_ex.h \
+ D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_uart.h \
+ D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Core\Inc/dma.h \
+ D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Core\Inc/main.h \
+ D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Core\Inc/i2c.h \
+ D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Core\Inc/tim.h \
+ D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Core\Inc/usart.h \
  D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Core\Inc/gpio.h \
- D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Core\Inc/main.h
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\stdio.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\_ansi.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\newlib.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\sys\config.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\machine\ieeefp.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\sys\cdefs.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\lib\gcc\arm-none-eabi\10.3.1\include\stdarg.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\sys\reent.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\_ansi.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\sys\_types.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\machine\_types.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\sys\lock.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\sys\types.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\machine\endian.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\machine\_endian.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\sys\select.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\sys\_sigset.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\sys\_timeval.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\sys\timespec.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\sys\_timespec.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\sys\_pthreadtypes.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\sys\sched.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\machine\types.h \
+ d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\sys\stdio.h

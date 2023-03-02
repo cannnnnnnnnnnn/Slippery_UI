@@ -31,4 +31,8 @@ CMakeFiles/IIC.elf.dir/Core/Src/gpio.c.obj: \
  D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_cortex.h \
  D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_flash.h \
  D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_flash_ex.h \
- D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_pwr.h
+ D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_i2c.h \
+ D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_pwr.h \
+ D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_tim.h \
+ D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_tim_ex.h \
+ D:\Clion_STM32\CLionProjects\Slippery_UI\IIC\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_uart.h

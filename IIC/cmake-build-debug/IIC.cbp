@@ -96,7 +96,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Inc/dma.h">
+			<Option target="IIC.elf"/>
+		</Unit>
 		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Inc/gpio.h">
+			<Option target="IIC.elf"/>
+		</Unit>
+		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Inc/i2c.h">
 			<Option target="IIC.elf"/>
 		</Unit>
 		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Inc/main.h">
@@ -108,7 +114,19 @@
 		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Inc/stm32f1xx_it.h">
 			<Option target="IIC.elf"/>
 		</Unit>
+		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Inc/tim.h">
+			<Option target="IIC.elf"/>
+		</Unit>
+		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Inc/usart.h">
+			<Option target="IIC.elf"/>
+		</Unit>
+		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Src/dma.c">
+			<Option target="IIC.elf"/>
+		</Unit>
 		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Src/gpio.c">
+			<Option target="IIC.elf"/>
+		</Unit>
+		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Src/i2c.c">
 			<Option target="IIC.elf"/>
 		</Unit>
 		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Src/main.c">
@@ -127,6 +145,12 @@
 			<Option target="IIC.elf"/>
 		</Unit>
 		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Src/system_stm32f1xx.c">
+			<Option target="IIC.elf"/>
+		</Unit>
+		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Src/tim.c">
+			<Option target="IIC.elf"/>
+		</Unit>
+		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Src/usart.c">
 			<Option target="IIC.elf"/>
 		</Unit>
 		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Startup/startup_stm32f103zetx.s">
@@ -243,6 +267,9 @@
 		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h">
 			<Option target="IIC.elf"/>
 		</Unit>
+		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h">
+			<Option target="IIC.elf"/>
+		</Unit>
 		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h">
 			<Option target="IIC.elf"/>
 		</Unit>
@@ -256,6 +283,9 @@
 			<Option target="IIC.elf"/>
 		</Unit>
 		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h">
+			<Option target="IIC.elf"/>
+		</Unit>
+		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h">
 			<Option target="IIC.elf"/>
 		</Unit>
 		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_bus.h">
@@ -273,6 +303,9 @@
 		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h">
 			<Option target="IIC.elf"/>
 		</Unit>
+		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_i2c.h">
+			<Option target="IIC.elf"/>
+		</Unit>
 		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_pwr.h">
 			<Option target="IIC.elf"/>
 		</Unit>
@@ -280,6 +313,12 @@
 			<Option target="IIC.elf"/>
 		</Unit>
 		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_system.h">
+			<Option target="IIC.elf"/>
+		</Unit>
+		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_tim.h">
+			<Option target="IIC.elf"/>
+		</Unit>
+		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usart.h">
 			<Option target="IIC.elf"/>
 		</Unit>
 		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_utils.h">
@@ -312,6 +351,9 @@
 		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c">
 			<Option target="IIC.elf"/>
 		</Unit>
+		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c">
+			<Option target="IIC.elf"/>
+		</Unit>
 		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c">
 			<Option target="IIC.elf"/>
 		</Unit>
@@ -325,6 +367,9 @@
 			<Option target="IIC.elf"/>
 		</Unit>
 		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c">
+			<Option target="IIC.elf"/>
+		</Unit>
+		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c">
 			<Option target="IIC.elf"/>
 		</Unit>
 		<Unit filename="D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/STM32F103ZETX_FLASH.ld">

@@ -30,13 +30,17 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Src/dma.c" "CMakeFiles/IIC.elf.dir/Core/Src/dma.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Core/Src/dma.c.obj.d"
   "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Src/gpio.c" "CMakeFiles/IIC.elf.dir/Core/Src/gpio.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Core/Src/gpio.c.obj.d"
+  "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Src/i2c.c" "CMakeFiles/IIC.elf.dir/Core/Src/i2c.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Core/Src/i2c.c.obj.d"
   "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Src/main.c" "CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj.d"
   "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Src/stm32f1xx_hal_msp.c" "CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj.d"
   "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Src/stm32f1xx_it.c" "CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj.d"
   "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Src/syscalls.c" "CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj.d"
   "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Src/sysmem.c" "CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj.d"
   "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Src/system_stm32f1xx.c" "CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj.d"
+  "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Src/tim.c" "CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj.d"
+  "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Core/Src/usart.c" "CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj.d"
   "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj.d"
   "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj.d"
   "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj.d"
@@ -45,11 +49,13 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj.d"
   "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj.d"
   "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj.d"
+  "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj.d"
   "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj.d"
   "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj.d"
   "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj.d"
   "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj.d"
   "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj.d"
+  "D:/Clion_STM32/CLionProjects/Slippery_UI/IIC/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj" "gcc" "CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj.d"
   )
 
 # Targets to which this target links.
