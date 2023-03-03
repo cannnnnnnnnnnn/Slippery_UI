@@ -43,7 +43,7 @@
 #endif
 
 PUTCHAR_PROTOTYPE {
-    HAL_UART_Transmit(&huart1, (uint8_t *) &ch, 1, 0xFFFF);//阻塞方式打印,串口1
+    HAL_UART_Transmit(&huart1, (uint8_t *) &ch, 1, 0xFFFF);//??????????,????1
     return ch;
 }
 /* USER CODE END PD */
@@ -68,6 +68,27 @@ void SystemClock_Config(void);
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
 void IIC_Test(){
+    uint8_t Write_Data[5] = {1,2,3,4,5};
+    uint8_t Read_date[10] = {0};
+    uint8_t result;
+    printf("设备初始化\n");
+    result = HAL_I2C_Mem_Write_DMA(&hi2c1,0xA0,0x08,I2C_MEMADD_SIZE_8BIT,Write_Data,sizeof(Write_Data));
+    if (result == HAL_OK){
+        printf("写入数据成功!\n");
+    } else{
+        printf("写入失败\n");
+    }
+    HAL_Delay(20);
+//    HAL_I2C_Mem_Read_DMA()
+//    HAL_I2C_Mem_Write()
+//    HAL_I2C_Mem_Read()
+//    HAL_I2C_Mem_Write_DMA()
+    result = HAL_I2C_Mem_Read_DMA(&hi2c1,0xA1,0x08,I2C_MEMADD_SIZE_8BIT,Read_date, sizeof(Read_date));
+    if (result == HAL_OK){
+        printf("读取成功!\n");
+    } else{
+        printf("读取失败\n");
+    }
 
 }
 /* USER CODE END 0 */

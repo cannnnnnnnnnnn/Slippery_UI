@@ -10,16 +10,66 @@ d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/..
                               d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
                               d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-puts.o)
+                              CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj (puts)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-strlen-stub.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-puts.o) (strlen)
 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
                               d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o) (__call_exitprocs)
 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
                               d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (atexit)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-puts.o) (__sinit)
 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
                               d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fvwrite.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-puts.o) (__sfvwrite_r)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fwalk.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o) (_fwalk)
 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
-                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o) (__retarget_lock_init_recursive)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o) (_malloc_r)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memchr-stub.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fvwrite.o) (memchr)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memcpy.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fvwrite.o) (memcpy)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memmove.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fvwrite.o) (memmove)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mlock.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o) (__malloc_lock)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reallocr.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fvwrite.o) (_realloc_r)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-sbrkr.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o) (_sbrk_r)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-stdio.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o) (__sread)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-writer.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-stdio.o) (_write_r)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-wsetup.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fvwrite.o) (__swsetup_r)
 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
                               d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o) (__register_exitproc)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-closer.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-stdio.o) (_close_r)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fclose.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o) (_fclose_r)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fflush.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fclose.o) (__sflush_r)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-freer.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fvwrite.o) (_free_r)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lseekr.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-stdio.o) (_lseek_r)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-makebuf.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-wsetup.o) (__smakebuf_r)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-readr.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-stdio.o) (_read_r)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reent.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-sbrkr.o) (errno)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fstatr.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-makebuf.o) (_fstat_r)
+d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-isattyr.o)
+                              d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-makebuf.o) (_isatty_r)
 
 Discarded input sections
 
@@ -49,10 +99,6 @@ Discarded input sections
  .text          0x00000000        0x0 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
  .data          0x00000000        0x0 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
  .bss           0x00000000        0x0 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
- .text.__io_putchar
-                0x00000000       0x20 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
- .text.IIC_Test
-                0x00000000        0x2 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
  .text          0x00000000        0x0 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
  .data          0x00000000        0x0 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
  .bss           0x00000000        0x0 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
@@ -67,12 +113,6 @@ Discarded input sections
  .text._getpid  0x00000000        0x4 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
  .text._kill    0x00000000       0x10 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
  .text._exit    0x00000000        0xc CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
- .text._read    0x00000000       0x20 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
- .text._write   0x00000000       0x1c CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
- .text._close   0x00000000        0x6 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
- .text._fstat   0x00000000        0xa CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
- .text._isatty  0x00000000        0x4 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
- .text._lseek   0x00000000        0x4 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
  .text._open    0x00000000        0xa CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
  .text._wait    0x00000000       0x10 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
  .text._unlink  0x00000000       0x10 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
@@ -83,36 +123,9 @@ Discarded input sections
  .text._execve  0x00000000       0x10 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
  .bss.__env     0x00000000        0x4 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
  .data.environ  0x00000000        0x4 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
- .debug_info    0x00000000      0x7af CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
- .debug_abbrev  0x00000000      0x1a3 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
- .debug_loc     0x00000000      0x3c5 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
- .debug_aranges
-                0x00000000       0xa8 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
- .debug_ranges  0x00000000       0x98 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
- .debug_line    0x00000000      0x41d CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
- .debug_str     0x00000000      0x43e CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
- .comment       0x00000000       0x4a CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
- .debug_frame   0x00000000      0x190 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
- .ARM.attributes
-                0x00000000       0x2d CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
  .text          0x00000000        0x0 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
  .data          0x00000000        0x0 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
  .bss           0x00000000        0x0 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
- .text._sbrk    0x00000000       0x48 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
- .bss.__sbrk_heap_end
-                0x00000000        0x4 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
- .debug_info    0x00000000      0x174 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
- .debug_abbrev  0x00000000       0xe7 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
- .debug_loc     0x00000000       0x64 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
- .debug_aranges
-                0x00000000       0x20 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
- .debug_ranges  0x00000000       0x10 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
- .debug_line    0x00000000      0x1d4 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
- .debug_str     0x00000000      0x26a CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
- .comment       0x00000000       0x4a CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
- .debug_frame   0x00000000       0x28 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
- .ARM.attributes
-                0x00000000       0x2d CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
  .text          0x00000000        0x0 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
  .data          0x00000000        0x0 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
  .bss           0x00000000        0x0 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
@@ -146,8 +159,6 @@ Discarded input sections
                 0x00000000       0x2c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .text.HAL_GetTickFreq
                 0x00000000        0xc CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .text.HAL_Delay
-                0x00000000       0x28 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .text.HAL_SuspendTick
                 0x00000000        0xe CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .text.HAL_ResumeTick
@@ -204,14 +215,10 @@ Discarded input sections
  .text          0x00000000        0x0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
  .data          0x00000000        0x0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
  .bss           0x00000000        0x0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .text.DMA_SetConfig
-                0x00000000       0x2c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
  .text.HAL_DMA_DeInit
                 0x00000000       0x90 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
  .text.HAL_DMA_Start
                 0x00000000       0x50 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .text.HAL_DMA_Start_IT
-                0x00000000       0x74 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
  .text.HAL_DMA_PollForTransfer
                 0x00000000      0x548 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
  .text.HAL_DMA_RegisterCallback
@@ -399,24 +406,12 @@ Discarded input sections
                 0x00000000       0x20 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .text.I2C_WaitOnSTOPRequestThroughIT
                 0x00000000       0x48 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .text.I2C_IsAcknowledgeFailed
-                0x00000000       0x32 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .text.I2C_ConvertOtherXferOptions
                 0x00000000       0x1e CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .text.I2C_WaitOnFlagUntilTimeout
-                0x00000000       0x7c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .text.I2C_WaitOnMasterAddressFlagUntilTimeout
-                0x00000000       0xaa CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .text.I2C_MasterRequestWrite
                 0x00000000       0xb4 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .text.I2C_MasterRequestRead
                 0x00000000      0x120 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .text.I2C_WaitOnTXEFlagUntilTimeout
-                0x00000000       0x54 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .text.I2C_RequestMemoryWrite
-                0x00000000       0xd8 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .text.I2C_RequestMemoryRead
-                0x00000000      0x154 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .text.I2C_WaitOnBTFFlagUntilTimeout
                 0x00000000       0x54 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .text.I2C_WaitOnRXNEFlagUntilTimeout
@@ -461,10 +456,6 @@ Discarded input sections
                 0x00000000       0xe4 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .text.HAL_I2C_Mem_Read_IT
                 0x00000000       0xf4 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .text.HAL_I2C_Mem_Write_DMA
-                0x00000000      0x1c8 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .text.HAL_I2C_Mem_Read_DMA
-                0x00000000      0x208 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .text.HAL_I2C_IsDeviceReady
                 0x00000000      0x194 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .text.HAL_I2C_Master_Seq_Transmit_IT
@@ -489,14 +480,8 @@ Discarded input sections
                 0x00000000       0x42 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .text.HAL_I2C_MasterTxCpltCallback
                 0x00000000        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .text.HAL_I2C_MasterRxCpltCallback
-                0x00000000        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .text.HAL_I2C_SlaveTxCpltCallback
-                0x00000000        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .text.I2C_SlaveTransmit_TXE
                 0x00000000       0x4c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .text.HAL_I2C_SlaveRxCpltCallback
-                0x00000000        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .text.I2C_SlaveReceive_RXNE
                 0x00000000       0x4c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .text.HAL_I2C_AddrCallback
@@ -515,16 +500,8 @@ Discarded input sections
                 0x00000000       0xbe CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .text.I2C_MasterTransmit_TXE
                 0x00000000       0xd0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .text.HAL_I2C_MemRxCpltCallback
-                0x00000000        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .text.I2C_MasterReceive_BTF
                 0x00000000      0x128 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .text.HAL_I2C_ErrorCallback
-                0x00000000        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .text.I2C_DMAError
-                0x00000000       0x3a CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .text.I2C_DMAXferCplt
-                0x00000000      0x122 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .text.I2C_MasterReceive_RXNE
                 0x00000000       0xec CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .text.HAL_I2C_AbortCpltCallback
@@ -939,8 +916,6 @@ Discarded input sections
  .bss           0x00000000        0x0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .text.UART_EndTxTransfer
                 0x00000000       0x12 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .text.UART_WaitOnFlagUntilTimeout
-                0x00000000       0x6c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .text.HAL_UART_MspInit
                 0x00000000        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .text.HAL_HalfDuplex_Init
@@ -953,8 +928,6 @@ Discarded input sections
                 0x00000000        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .text.HAL_UART_DeInit
                 0x00000000       0x32 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .text.HAL_UART_Transmit
-                0x00000000       0xd8 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .text.HAL_UART_Receive
                 0x00000000       0xe4 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .text.HAL_UART_Transmit_IT
@@ -1038,10 +1011,6 @@ Discarded input sections
  .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
  .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
  .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
- .text.__errno  0x00000000        0xc d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
- .debug_frame   0x00000000       0x20 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
- .ARM.attributes
-                0x00000000       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
  .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
  .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
  .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
@@ -1052,14 +1021,18 @@ Discarded input sections
  .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
  .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
  .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
- .data._impure_ptr
-                0x00000000        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
  .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
  .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
  .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
  .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
  .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
  .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-puts.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-puts.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-puts.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-strlen-stub.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-strlen-stub.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-strlen-stub.o)
  .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
  .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
  .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
@@ -1068,19 +1041,42 @@ Discarded input sections
  .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
  .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
  .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x1c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x1c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x00000000       0x30 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o)
+ .text._cleanup
+                0x00000000       0x14 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o)
+ .text.__sfp    0x00000000       0xc8 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x00000000        0xc d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x00000000        0xc d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x24 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x24 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o)
  .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
  .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
  .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fvwrite.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fvwrite.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fvwrite.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fwalk.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fwalk.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fwalk.o)
+ .text._fwalk   0x00000000       0x40 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fwalk.o)
  .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
  .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
  .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
  .text.__retarget_lock_init
                 0x00000000        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
- .text.__retarget_lock_init_recursive
-                0x00000000        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
  .text.__retarget_lock_close
-                0x00000000        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
- .text.__retarget_lock_close_recursive
                 0x00000000        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
  .text.__retarget_lock_acquire
                 0x00000000        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
@@ -1098,17 +1094,80 @@ Discarded input sections
                 0x00000000        0x1 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
  .bss.__lock___env_recursive_mutex
                 0x00000000        0x1 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
- .bss.__lock___malloc_recursive_mutex
-                0x00000000        0x1 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
- .bss.__lock___sfp_recursive_mutex
-                0x00000000        0x1 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
- .bss.__lock___sinit_recursive_mutex
-                0x00000000        0x1 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
  .bss.__lock___tz_mutex
                 0x00000000        0x1 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memchr-stub.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memchr-stub.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memchr-stub.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reallocr.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reallocr.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reallocr.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-stdio.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-stdio.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-stdio.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-writer.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-writer.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-writer.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-wsetup.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-wsetup.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-wsetup.o)
  .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
  .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
  .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-closer.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-closer.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-closer.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fclose.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fclose.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fclose.o)
+ .text.fclose   0x00000000       0x10 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fclose.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fflush.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fflush.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fflush.o)
+ .text.fflush   0x00000000       0x74 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fflush.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-freer.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-freer.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-freer.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lseekr.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lseekr.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lseekr.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-makebuf.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-makebuf.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-makebuf.o)
+ .text.__swhatbuf_r
+                0x00000000       0x60 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-makebuf.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-readr.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-readr.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-readr.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reent.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x48 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x90 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reent.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fstatr.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fstatr.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fstatr.o)
+ .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-isattyr.o)
+ .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-isattyr.o)
+ .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-isattyr.o)
  .text          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
  .data          0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
  .bss           0x00000000        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
@@ -1177,400 +1236,575 @@ LOAD d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3
                 0x08000000                g_pfnVectors
                 0x080001e4                . = ALIGN (0x4)
 
-.text           0x080001e4     0x231c
+.text           0x080001e4     0x4910
                 0x080001e4                . = ALIGN (0x4)
  *(.text)
  .text          0x080001e4       0x40 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x08000224       0xec d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memcpy.o)
+                0x08000224                memcpy
  *(.text*)
  .text.MX_DMA_Init
-                0x08000224       0x44 CMakeFiles/IIC.elf.dir/Core/Src/dma.c.obj
-                0x08000224                MX_DMA_Init
+                0x08000310       0x44 CMakeFiles/IIC.elf.dir/Core/Src/dma.c.obj
+                0x08000310                MX_DMA_Init
  .text.MX_GPIO_Init
-                0x08000268       0x30 CMakeFiles/IIC.elf.dir/Core/Src/gpio.c.obj
-                0x08000268                MX_GPIO_Init
+                0x08000354       0x30 CMakeFiles/IIC.elf.dir/Core/Src/gpio.c.obj
+                0x08000354                MX_GPIO_Init
  .text.MX_I2C1_Init
-                0x08000298       0x3c CMakeFiles/IIC.elf.dir/Core/Src/i2c.c.obj
-                0x08000298                MX_I2C1_Init
+                0x08000384       0x3c CMakeFiles/IIC.elf.dir/Core/Src/i2c.c.obj
+                0x08000384                MX_I2C1_Init
  .text.HAL_I2C_MspInit
-                0x080002d4       0xd0 CMakeFiles/IIC.elf.dir/Core/Src/i2c.c.obj
-                0x080002d4                HAL_I2C_MspInit
+                0x080003c0       0xd0 CMakeFiles/IIC.elf.dir/Core/Src/i2c.c.obj
+                0x080003c0                HAL_I2C_MspInit
+ .text.__io_putchar
+                0x08000490       0x20 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
+                0x08000490                __io_putchar
+ .text.IIC_Test
+                0x080004b0       0x90 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
+                0x080004b0                IIC_Test
  .text.Error_Handler
-                0x080003a4        0x4 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
-                0x080003a4                Error_Handler
+                0x08000540        0x4 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
+                0x08000540                Error_Handler
  .text.SystemClock_Config
-                0x080003a8       0x64 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
-                0x080003a8                SystemClock_Config
- .text.main     0x0800040c       0x2c CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
-                0x0800040c                main
+                0x08000544       0x64 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
+                0x08000544                SystemClock_Config
+ .text.main     0x080005a8       0x30 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
+                0x080005a8                main
  .text.HAL_MspInit
-                0x08000438       0x30 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
-                0x08000438                HAL_MspInit
+                0x080005d8       0x30 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x080005d8                HAL_MspInit
  .text.NMI_Handler
-                0x08000468        0x2 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000468                NMI_Handler
+                0x08000608        0x2 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000608                NMI_Handler
  .text.HardFault_Handler
-                0x0800046a        0x2 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x0800046a                HardFault_Handler
+                0x0800060a        0x2 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800060a                HardFault_Handler
  .text.MemManage_Handler
-                0x0800046c        0x2 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x0800046c                MemManage_Handler
+                0x0800060c        0x2 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800060c                MemManage_Handler
  .text.BusFault_Handler
-                0x0800046e        0x2 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x0800046e                BusFault_Handler
+                0x0800060e        0x2 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800060e                BusFault_Handler
  .text.UsageFault_Handler
-                0x08000470        0x2 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000470                UsageFault_Handler
+                0x08000610        0x2 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000610                UsageFault_Handler
  .text.SVC_Handler
-                0x08000472        0x2 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000472                SVC_Handler
+                0x08000612        0x2 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000612                SVC_Handler
  .text.DebugMon_Handler
-                0x08000474        0x2 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000474                DebugMon_Handler
+                0x08000614        0x2 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000614                DebugMon_Handler
  .text.PendSV_Handler
-                0x08000476        0x2 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000476                PendSV_Handler
+                0x08000616        0x2 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000616                PendSV_Handler
  .text.SysTick_Handler
-                0x08000478        0x8 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000478                SysTick_Handler
+                0x08000618        0x8 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000618                SysTick_Handler
  .text.DMA1_Channel6_IRQHandler
-                0x08000480       0x10 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000480                DMA1_Channel6_IRQHandler
+                0x08000620       0x10 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000620                DMA1_Channel6_IRQHandler
  .text.DMA1_Channel7_IRQHandler
-                0x08000490       0x10 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000490                DMA1_Channel7_IRQHandler
+                0x08000630       0x10 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000630                DMA1_Channel7_IRQHandler
  .text.USART1_IRQHandler
-                0x080004a0       0x10 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x080004a0                USART1_IRQHandler
+                0x08000640       0x10 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000640                USART1_IRQHandler
+ .text._read    0x08000650       0x20 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
+                0x08000650                _read
+ .text._write   0x08000670       0x1c CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
+                0x08000670                _write
+ .text._close   0x0800068c        0x6 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
+                0x0800068c                _close
+ .text._fstat   0x08000692        0xa CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
+                0x08000692                _fstat
+ .text._isatty  0x0800069c        0x4 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
+                0x0800069c                _isatty
+ .text._lseek   0x080006a0        0x4 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
+                0x080006a0                _lseek
+ .text._sbrk    0x080006a4       0x48 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
+                0x080006a4                _sbrk
  .text.SystemInit
-                0x080004b0        0x2 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
-                0x080004b0                SystemInit
- *fill*         0x080004b2        0x2 
+                0x080006ec        0x2 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x080006ec                SystemInit
+ *fill*         0x080006ee        0x2 
  .text.HAL_TIM_Base_MspInit
-                0x080004b4       0x2c CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
-                0x080004b4                HAL_TIM_Base_MspInit
+                0x080006f0       0x2c CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
+                0x080006f0                HAL_TIM_Base_MspInit
  .text.HAL_TIM_MspPostInit
-                0x080004e0       0x64 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
-                0x080004e0                HAL_TIM_MspPostInit
+                0x0800071c       0x64 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
+                0x0800071c                HAL_TIM_MspPostInit
  .text.MX_TIM3_Init
-                0x08000544       0xb8 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
-                0x08000544                MX_TIM3_Init
+                0x08000780       0xb8 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
+                0x08000780                MX_TIM3_Init
  .text.MX_USART1_UART_Init
-                0x080005fc       0x34 CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
-                0x080005fc                MX_USART1_UART_Init
+                0x08000838       0x34 CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
+                0x08000838                MX_USART1_UART_Init
  .text.HAL_UART_MspInit
-                0x08000630       0x88 CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
-                0x08000630                HAL_UART_MspInit
+                0x0800086c       0x88 CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
+                0x0800086c                HAL_UART_MspInit
  .text.Reset_Handler
-                0x080006b8       0x48 CMakeFiles/IIC.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
-                0x080006b8                Reset_Handler
+                0x080008f4       0x48 CMakeFiles/IIC.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+                0x080008f4                Reset_Handler
  .text.Default_Handler
-                0x08000700        0x2 CMakeFiles/IIC.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
-                0x08000700                RTC_Alarm_IRQHandler
-                0x08000700                EXTI2_IRQHandler
-                0x08000700                TIM8_TRG_COM_IRQHandler
-                0x08000700                TIM8_CC_IRQHandler
-                0x08000700                TIM1_CC_IRQHandler
-                0x08000700                TIM6_IRQHandler
-                0x08000700                PVD_IRQHandler
-                0x08000700                SDIO_IRQHandler
-                0x08000700                EXTI3_IRQHandler
-                0x08000700                EXTI0_IRQHandler
-                0x08000700                I2C2_EV_IRQHandler
-                0x08000700                ADC1_2_IRQHandler
-                0x08000700                SPI1_IRQHandler
-                0x08000700                TAMPER_IRQHandler
-                0x08000700                TIM8_UP_IRQHandler
-                0x08000700                DMA2_Channel2_IRQHandler
-                0x08000700                DMA1_Channel4_IRQHandler
-                0x08000700                USART3_IRQHandler
-                0x08000700                RTC_IRQHandler
-                0x08000700                CAN1_RX1_IRQHandler
-                0x08000700                UART5_IRQHandler
-                0x08000700                ADC3_IRQHandler
-                0x08000700                TIM4_IRQHandler
-                0x08000700                DMA2_Channel1_IRQHandler
-                0x08000700                I2C1_EV_IRQHandler
-                0x08000700                UART4_IRQHandler
-                0x08000700                TIM3_IRQHandler
-                0x08000700                RCC_IRQHandler
-                0x08000700                TIM1_TRG_COM_IRQHandler
-                0x08000700                DMA1_Channel1_IRQHandler
-                0x08000700                Default_Handler
-                0x08000700                EXTI15_10_IRQHandler
-                0x08000700                TIM7_IRQHandler
-                0x08000700                TIM5_IRQHandler
-                0x08000700                EXTI9_5_IRQHandler
-                0x08000700                SPI2_IRQHandler
-                0x08000700                DMA1_Channel5_IRQHandler
-                0x08000700                EXTI4_IRQHandler
-                0x08000700                USB_LP_CAN1_RX0_IRQHandler
-                0x08000700                USB_HP_CAN1_TX_IRQHandler
-                0x08000700                DMA1_Channel3_IRQHandler
-                0x08000700                FSMC_IRQHandler
-                0x08000700                TIM1_UP_IRQHandler
-                0x08000700                WWDG_IRQHandler
-                0x08000700                TIM2_IRQHandler
-                0x08000700                TIM1_BRK_IRQHandler
-                0x08000700                EXTI1_IRQHandler
-                0x08000700                DMA2_Channel4_5_IRQHandler
-                0x08000700                USART2_IRQHandler
-                0x08000700                I2C2_ER_IRQHandler
-                0x08000700                DMA1_Channel2_IRQHandler
-                0x08000700                TIM8_BRK_IRQHandler
-                0x08000700                CAN1_SCE_IRQHandler
-                0x08000700                FLASH_IRQHandler
-                0x08000700                SPI3_IRQHandler
-                0x08000700                I2C1_ER_IRQHandler
-                0x08000700                USBWakeUp_IRQHandler
-                0x08000700                DMA2_Channel3_IRQHandler
- *fill*         0x08000702        0x2 
+                0x0800093c        0x2 CMakeFiles/IIC.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+                0x0800093c                RTC_Alarm_IRQHandler
+                0x0800093c                EXTI2_IRQHandler
+                0x0800093c                TIM8_TRG_COM_IRQHandler
+                0x0800093c                TIM8_CC_IRQHandler
+                0x0800093c                TIM1_CC_IRQHandler
+                0x0800093c                TIM6_IRQHandler
+                0x0800093c                PVD_IRQHandler
+                0x0800093c                SDIO_IRQHandler
+                0x0800093c                EXTI3_IRQHandler
+                0x0800093c                EXTI0_IRQHandler
+                0x0800093c                I2C2_EV_IRQHandler
+                0x0800093c                ADC1_2_IRQHandler
+                0x0800093c                SPI1_IRQHandler
+                0x0800093c                TAMPER_IRQHandler
+                0x0800093c                TIM8_UP_IRQHandler
+                0x0800093c                DMA2_Channel2_IRQHandler
+                0x0800093c                DMA1_Channel4_IRQHandler
+                0x0800093c                USART3_IRQHandler
+                0x0800093c                RTC_IRQHandler
+                0x0800093c                CAN1_RX1_IRQHandler
+                0x0800093c                UART5_IRQHandler
+                0x0800093c                ADC3_IRQHandler
+                0x0800093c                TIM4_IRQHandler
+                0x0800093c                DMA2_Channel1_IRQHandler
+                0x0800093c                I2C1_EV_IRQHandler
+                0x0800093c                UART4_IRQHandler
+                0x0800093c                TIM3_IRQHandler
+                0x0800093c                RCC_IRQHandler
+                0x0800093c                TIM1_TRG_COM_IRQHandler
+                0x0800093c                DMA1_Channel1_IRQHandler
+                0x0800093c                Default_Handler
+                0x0800093c                EXTI15_10_IRQHandler
+                0x0800093c                TIM7_IRQHandler
+                0x0800093c                TIM5_IRQHandler
+                0x0800093c                EXTI9_5_IRQHandler
+                0x0800093c                SPI2_IRQHandler
+                0x0800093c                DMA1_Channel5_IRQHandler
+                0x0800093c                EXTI4_IRQHandler
+                0x0800093c                USB_LP_CAN1_RX0_IRQHandler
+                0x0800093c                USB_HP_CAN1_TX_IRQHandler
+                0x0800093c                DMA1_Channel3_IRQHandler
+                0x0800093c                FSMC_IRQHandler
+                0x0800093c                TIM1_UP_IRQHandler
+                0x0800093c                WWDG_IRQHandler
+                0x0800093c                TIM2_IRQHandler
+                0x0800093c                TIM1_BRK_IRQHandler
+                0x0800093c                EXTI1_IRQHandler
+                0x0800093c                DMA2_Channel4_5_IRQHandler
+                0x0800093c                USART2_IRQHandler
+                0x0800093c                I2C2_ER_IRQHandler
+                0x0800093c                DMA1_Channel2_IRQHandler
+                0x0800093c                TIM8_BRK_IRQHandler
+                0x0800093c                CAN1_SCE_IRQHandler
+                0x0800093c                FLASH_IRQHandler
+                0x0800093c                SPI3_IRQHandler
+                0x0800093c                I2C1_ER_IRQHandler
+                0x0800093c                USBWakeUp_IRQHandler
+                0x0800093c                DMA2_Channel3_IRQHandler
+ *fill*         0x0800093e        0x2 
  .text.HAL_InitTick
-                0x08000704       0x4c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x08000704                HAL_InitTick
+                0x08000940       0x4c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000940                HAL_InitTick
  .text.HAL_Init
-                0x08000750       0x24 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x08000750                HAL_Init
+                0x0800098c       0x24 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0800098c                HAL_Init
  .text.HAL_IncTick
-                0x08000774       0x18 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x08000774                HAL_IncTick
+                0x080009b0       0x18 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080009b0                HAL_IncTick
  .text.HAL_GetTick
-                0x0800078c        0xc CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x0800078c                HAL_GetTick
+                0x080009c8        0xc CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080009c8                HAL_GetTick
+ .text.HAL_Delay
+                0x080009d4       0x28 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080009d4                HAL_Delay
  .text.HAL_NVIC_SetPriorityGrouping
-                0x08000798       0x24 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x08000798                HAL_NVIC_SetPriorityGrouping
+                0x080009fc       0x24 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x080009fc                HAL_NVIC_SetPriorityGrouping
  .text.HAL_NVIC_SetPriority
-                0x080007bc       0x70 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x080007bc                HAL_NVIC_SetPriority
+                0x08000a20       0x70 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000a20                HAL_NVIC_SetPriority
  .text.HAL_NVIC_EnableIRQ
-                0x0800082c       0x1c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x0800082c                HAL_NVIC_EnableIRQ
+                0x08000a90       0x1c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000a90                HAL_NVIC_EnableIRQ
  .text.HAL_SYSTICK_Config
-                0x08000848       0x28 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x08000848                HAL_SYSTICK_Config
+                0x08000aac       0x28 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000aac                HAL_SYSTICK_Config
+ .text.DMA_SetConfig
+                0x08000ad4       0x2c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
  .text.HAL_DMA_Init
-                0x08000870       0x98 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
-                0x08000870                HAL_DMA_Init
+                0x08000b00       0x98 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x08000b00                HAL_DMA_Init
+ .text.HAL_DMA_Start_IT
+                0x08000b98       0x74 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x08000b98                HAL_DMA_Start_IT
  .text.HAL_DMA_Abort
-                0x08000908       0x44 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
-                0x08000908                HAL_DMA_Abort
+                0x08000c0c       0x44 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x08000c0c                HAL_DMA_Abort
  .text.HAL_DMA_Abort_IT
-                0x0800094c      0x168 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
-                0x0800094c                HAL_DMA_Abort_IT
+                0x08000c50      0x168 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x08000c50                HAL_DMA_Abort_IT
  .text.HAL_DMA_IRQHandler
-                0x08000ab4      0x2ec CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
-                0x08000ab4                HAL_DMA_IRQHandler
+                0x08000db8      0x2ec CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x08000db8                HAL_DMA_IRQHandler
  .text.HAL_GPIO_Init
-                0x08000da0      0x240 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
-                0x08000da0                HAL_GPIO_Init
+                0x080010a4      0x240 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x080010a4                HAL_GPIO_Init
+ .text.I2C_IsAcknowledgeFailed
+                0x080012e4       0x32 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_WaitOnFlagUntilTimeout
+                0x08001316       0x7c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_WaitOnMasterAddressFlagUntilTimeout
+                0x08001392       0xaa CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_WaitOnTXEFlagUntilTimeout
+                0x0800143c       0x54 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_RequestMemoryWrite
+                0x08001490       0xd8 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_RequestMemoryRead
+                0x08001568      0x154 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .text.HAL_I2C_Init
-                0x08000fe0      0x1bc CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
-                0x08000fe0                HAL_I2C_Init
+                0x080016bc      0x1bc CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+                0x080016bc                HAL_I2C_Init
+ .text.HAL_I2C_Mem_Write_DMA
+                0x08001878      0x1c8 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+                0x08001878                HAL_I2C_Mem_Write_DMA
+ .text.HAL_I2C_Mem_Read_DMA
+                0x08001a40      0x208 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+                0x08001a40                HAL_I2C_Mem_Read_DMA
+ .text.HAL_I2C_MasterRxCpltCallback
+                0x08001c48        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+                0x08001c48                HAL_I2C_MasterRxCpltCallback
+ .text.HAL_I2C_SlaveTxCpltCallback
+                0x08001c4a        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+                0x08001c4a                HAL_I2C_SlaveTxCpltCallback
+ .text.HAL_I2C_SlaveRxCpltCallback
+                0x08001c4c        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+                0x08001c4c                HAL_I2C_SlaveRxCpltCallback
+ .text.HAL_I2C_MemRxCpltCallback
+                0x08001c4e        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+                0x08001c4e                HAL_I2C_MemRxCpltCallback
+ .text.HAL_I2C_ErrorCallback
+                0x08001c50        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+                0x08001c50                HAL_I2C_ErrorCallback
+ .text.I2C_DMAError
+                0x08001c52       0x3a CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_DMAXferCplt
+                0x08001c8c      0x122 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ *fill*         0x08001dae        0x2 
  .text.RCC_Delay
-                0x0800119c       0x2c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08001db0       0x2c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .text.HAL_RCC_OscConfig
-                0x080011c8      0x410 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x080011c8                HAL_RCC_OscConfig
+                0x08001ddc      0x410 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08001ddc                HAL_RCC_OscConfig
  .text.HAL_RCC_GetSysClockFreq
-                0x080015d8       0x70 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x080015d8                HAL_RCC_GetSysClockFreq
+                0x080021ec       0x70 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080021ec                HAL_RCC_GetSysClockFreq
  .text.HAL_RCC_ClockConfig
-                0x08001648      0x16c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x08001648                HAL_RCC_ClockConfig
+                0x0800225c      0x16c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0800225c                HAL_RCC_ClockConfig
  .text.HAL_RCC_GetHCLKFreq
-                0x080017b4        0xc CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x080017b4                HAL_RCC_GetHCLKFreq
+                0x080023c8        0xc CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080023c8                HAL_RCC_GetHCLKFreq
  .text.HAL_RCC_GetPCLK1Freq
-                0x080017c0       0x20 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x080017c0                HAL_RCC_GetPCLK1Freq
+                0x080023d4       0x20 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080023d4                HAL_RCC_GetPCLK1Freq
  .text.HAL_RCC_GetPCLK2Freq
-                0x080017e0       0x20 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x080017e0                HAL_RCC_GetPCLK2Freq
+                0x080023f4       0x20 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080023f4                HAL_RCC_GetPCLK2Freq
  .text.TIM_OC1_SetConfig
-                0x08001800       0x68 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08002414       0x68 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.TIM_OC3_SetConfig
-                0x08001868       0x70 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0800247c       0x70 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.TIM_OC4_SetConfig
-                0x080018d8       0x50 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x080024ec       0x50 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.TIM_TI1_ConfigInputStage
-                0x08001928       0x24 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0800253c       0x24 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.TIM_TI2_ConfigInputStage
-                0x0800194c       0x26 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08002560       0x26 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.TIM_ITRx_SetConfig
-                0x08001972       0x10 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08002586       0x10 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.HAL_TIM_PWM_MspInit
-                0x08001982        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x08001982                HAL_TIM_PWM_MspInit
+                0x08002596        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08002596                HAL_TIM_PWM_MspInit
  .text.TIM_Base_SetConfig
-                0x08001984       0x98 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x08001984                TIM_Base_SetConfig
+                0x08002598       0x98 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08002598                TIM_Base_SetConfig
  .text.HAL_TIM_Base_Init
-                0x08001a1c       0x58 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x08001a1c                HAL_TIM_Base_Init
+                0x08002630       0x58 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08002630                HAL_TIM_Base_Init
  .text.HAL_TIM_PWM_Init
-                0x08001a74       0x58 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x08001a74                HAL_TIM_PWM_Init
+                0x08002688       0x58 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08002688                HAL_TIM_PWM_Init
  .text.TIM_OC2_SetConfig
-                0x08001acc       0x70 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x08001acc                TIM_OC2_SetConfig
+                0x080026e0       0x70 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x080026e0                TIM_OC2_SetConfig
  .text.HAL_TIM_PWM_ConfigChannel
-                0x08001b3c       0xd0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x08001b3c                HAL_TIM_PWM_ConfigChannel
+                0x08002750       0xd0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08002750                HAL_TIM_PWM_ConfigChannel
  .text.TIM_ETR_SetConfig
-                0x08001c0c       0x18 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x08001c0c                TIM_ETR_SetConfig
+                0x08002820       0x18 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08002820                TIM_ETR_SetConfig
  .text.HAL_TIM_ConfigClockSource
-                0x08001c24       0xda CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x08001c24                HAL_TIM_ConfigClockSource
+                0x08002838       0xda CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08002838                HAL_TIM_ConfigClockSource
  .text.TIM_CCxChannelCmd
-                0x08001cfe       0x1e CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x08001cfe                TIM_CCxChannelCmd
+                0x08002912       0x1e CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08002912                TIM_CCxChannelCmd
  .text.HAL_TIM_PWM_Start
-                0x08001d1c       0xf4 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x08001d1c                HAL_TIM_PWM_Start
+                0x08002930       0xf4 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08002930                HAL_TIM_PWM_Start
  .text.HAL_TIMEx_MasterConfigSynchronization
-                0x08001e10       0x7c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
-                0x08001e10                HAL_TIMEx_MasterConfigSynchronization
+                0x08002a24       0x7c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                0x08002a24                HAL_TIMEx_MasterConfigSynchronization
  .text.UART_EndRxTransfer
-                0x08001e8c       0x32 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08002aa0       0x32 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .text.UART_Transmit_IT
-                0x08001ebe       0x60 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- *fill*         0x08001f1e        0x2 
+                0x08002ad2       0x60 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ *fill*         0x08002b32        0x2 
  .text.UART_SetConfig
-                0x08001f20       0x94 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08002b34       0x94 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_WaitOnFlagUntilTimeout
+                0x08002bc8       0x6c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .text.HAL_UART_Init
-                0x08001fb4       0x5e CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
-                0x08001fb4                HAL_UART_Init
+                0x08002c34       0x5e CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08002c34                HAL_UART_Init
+ .text.HAL_UART_Transmit
+                0x08002c92       0xd8 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08002c92                HAL_UART_Transmit
  .text.HAL_UART_TxCpltCallback
-                0x08002012        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
-                0x08002012                HAL_UART_TxCpltCallback
+                0x08002d6a        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08002d6a                HAL_UART_TxCpltCallback
  .text.UART_EndTransmit_IT
-                0x08002014       0x1a CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08002d6c       0x1a CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .text.HAL_UART_RxCpltCallback
-                0x0800202e        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
-                0x0800202e                HAL_UART_RxCpltCallback
+                0x08002d86        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08002d86                HAL_UART_RxCpltCallback
  .text.HAL_UART_ErrorCallback
-                0x08002030        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
-                0x08002030                HAL_UART_ErrorCallback
+                0x08002d88        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08002d88                HAL_UART_ErrorCallback
  .text.UART_DMAAbortOnError
-                0x08002032       0x10 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08002d8a       0x10 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .text.HAL_UARTEx_RxEventCallback
-                0x08002042        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
-                0x08002042                HAL_UARTEx_RxEventCallback
+                0x08002d9a        0x2 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08002d9a                HAL_UARTEx_RxEventCallback
  .text.UART_Receive_IT
-                0x08002044       0xd4 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08002d9c       0xd4 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .text.HAL_UART_IRQHandler
-                0x08002118      0x204 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
-                0x08002118                HAL_UART_IRQHandler
+                0x08002e70      0x204 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08002e70                HAL_UART_IRQHandler
+ .text.__errno  0x08003074        0xc d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+                0x08003074                __errno
  .text.__libc_init_array
-                0x0800231c       0x48 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
-                0x0800231c                __libc_init_array
- .text.memset   0x08002364       0xa4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
-                0x08002364                memset
+                0x08003080       0x48 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+                0x08003080                __libc_init_array
+ .text.memset   0x080030c8       0xa4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+                0x080030c8                memset
+ .text._puts_r  0x0800316c       0x9c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-puts.o)
+                0x0800316c                _puts_r
+ .text.puts     0x08003208       0x10 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-puts.o)
+                0x08003208                puts
+ .text.strlen   0x08003218       0x5c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-strlen-stub.o)
+                0x08003218                strlen
  .text.startup.register_fini
-                0x08002408       0x14 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
- .text.atexit   0x0800241c        0xc d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
-                0x0800241c                atexit
+                0x08003274       0x14 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08003288        0xc d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+                0x08003288                atexit
+ .text._cleanup_r
+                0x08003294        0xc d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o)
+                0x08003294                _cleanup_r
+ .text.__sinit  0x080032a0      0x10c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o)
+                0x080032a0                __sinit
+ .text.__sfp_lock_acquire
+                0x080033ac        0xc d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o)
+                0x080033ac                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x080033b8        0xc d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o)
+                0x080033b8                __sfp_lock_release
  .text.__libc_fini_array
-                0x08002428       0x2c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
-                0x08002428                __libc_fini_array
+                0x080033c4       0x2c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+                0x080033c4                __libc_fini_array
+ .text.__sfvwrite_r
+                0x080033f0      0x2f0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fvwrite.o)
+                0x080033f0                __sfvwrite_r
+ .text._fwalk_reent
+                0x080036e0       0x48 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fwalk.o)
+                0x080036e0                _fwalk_reent
+ .text.__retarget_lock_init_recursive
+                0x08003728        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x08003728                __retarget_lock_init_recursive
+ .text.__retarget_lock_close_recursive
+                0x0800372c        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x0800372c                __retarget_lock_close_recursive
  .text.__retarget_lock_acquire_recursive
-                0x08002454        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
-                0x08002454                __retarget_lock_acquire_recursive
+                0x08003730        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x08003730                __retarget_lock_acquire_recursive
  .text.__retarget_lock_release_recursive
-                0x08002458        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
-                0x08002458                __retarget_lock_release_recursive
+                0x08003734        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x08003734                __retarget_lock_release_recursive
+ .text._malloc_r
+                0x08003738      0x558 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+                0x08003738                _malloc_r
+ .text.memchr   0x08003c90       0x90 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memchr-stub.o)
+                0x08003c90                memchr
+ .text.memmove  0x08003d20       0xf8 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memmove.o)
+                0x08003d20                memmove
+ .text.__malloc_lock
+                0x08003e18        0xc d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mlock.o)
+                0x08003e18                __malloc_lock
+ .text.__malloc_unlock
+                0x08003e24        0xc d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mlock.o)
+                0x08003e24                __malloc_unlock
+ .text._realloc_r
+                0x08003e30      0x3dc d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reallocr.o)
+                0x08003e30                _realloc_r
+ .text._sbrk_r  0x0800420c       0x24 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-sbrkr.o)
+                0x0800420c                _sbrk_r
+ .text.__sread  0x08004230       0x24 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-stdio.o)
+                0x08004230                __sread
+ .text.__swrite
+                0x08004254       0x40 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-stdio.o)
+                0x08004254                __swrite
+ .text.__sseek  0x08004294       0x20 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-stdio.o)
+                0x08004294                __sseek
+ .text.__sclose
+                0x080042b4        0x8 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-stdio.o)
+                0x080042b4                __sclose
+ .text._write_r
+                0x080042bc       0x2c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-writer.o)
+                0x080042bc                _write_r
+ .text.__swsetup_r
+                0x080042e8       0xd4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-wsetup.o)
+                0x080042e8                __swsetup_r
  .text.__register_exitproc
-                0x0800245c       0x8c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
-                0x0800245c                __register_exitproc
+                0x080043bc       0x8c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+                0x080043bc                __register_exitproc
+ .text._close_r
+                0x08004448       0x24 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-closer.o)
+                0x08004448                _close_r
+ .text._fclose_r
+                0x0800446c       0xcc d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fclose.o)
+                0x0800446c                _fclose_r
+ .text.__sflush_r
+                0x08004538      0x124 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fflush.o)
+                0x08004538                __sflush_r
+ .text._fflush_r
+                0x0800465c       0x5c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fflush.o)
+                0x0800465c                _fflush_r
+ .text._malloc_trim_r
+                0x080046b8       0xa0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-freer.o)
+                0x080046b8                _malloc_trim_r
+ .text._free_r  0x08004758      0x200 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-freer.o)
+                0x08004758                _free_r
+ .text._lseek_r
+                0x08004958       0x2c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lseekr.o)
+                0x08004958                _lseek_r
+ .text.__smakebuf_r
+                0x08004984       0xe0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-makebuf.o)
+                0x08004984                __smakebuf_r
+ .text._read_r  0x08004a64       0x2c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-readr.o)
+                0x08004a64                _read_r
+ .text._fstat_r
+                0x08004a90       0x28 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fstatr.o)
+                0x08004a90                _fstat_r
+ .text._isatty_r
+                0x08004ab8       0x24 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-isattyr.o)
+                0x08004ab8                _isatty_r
  *(.glue_7)
- .glue_7        0x080024e8        0x0 linker stubs
+ .glue_7        0x08004adc        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x080024e8        0x0 linker stubs
+ .glue_7t       0x08004adc        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x080024e8        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .eh_frame      0x08004adc        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
  *(.init)
- .init          0x080024e8        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
-                0x080024e8                _init
- .init          0x080024ec        0x8 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ .init          0x08004adc        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+                0x08004adc                _init
+ .init          0x08004ae0        0x8 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
  *(.fini)
- .fini          0x080024f4        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
-                0x080024f4                _fini
- .fini          0x080024f8        0x8 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
-                0x08002500                . = ALIGN (0x4)
-                0x08002500                _etext = .
+ .fini          0x08004ae8        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+                0x08004ae8                _fini
+ .fini          0x08004aec        0x8 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+                0x08004af4                . = ALIGN (0x4)
+                0x08004af4                _etext = .
 
-.vfp11_veneer   0x08002500        0x0
- .vfp11_veneer  0x08002500        0x0 linker stubs
+.vfp11_veneer   0x08004af4        0x0
+ .vfp11_veneer  0x08004af4        0x0 linker stubs
 
-.v4_bx          0x08002500        0x0
- .v4_bx         0x08002500        0x0 linker stubs
+.v4_bx          0x08004af4        0x0
+ .v4_bx         0x08004af4        0x0 linker stubs
 
-.iplt           0x08002500        0x0
- .iplt          0x08002500        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+.iplt           0x08004af4        0x0
+ .iplt          0x08004af4        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
 
-.rodata         0x08002500       0x30
-                0x08002500                . = ALIGN (0x4)
+.rodata         0x08004af4       0x7c
+                0x08004af4                . = ALIGN (0x4)
  *(.rodata)
  *(.rodata*)
+ .rodata.IIC_Test.str1.4
+                0x08004af4       0x46 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
+ *fill*         0x08004b3a        0x2 
  .rodata.AHBPrescTable
-                0x08002500       0x10 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
-                0x08002500                AHBPrescTable
+                0x08004b3c       0x10 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08004b3c                AHBPrescTable
  .rodata.APBPrescTable
-                0x08002510        0x8 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
-                0x08002510                APBPrescTable
+                0x08004b4c        0x8 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08004b4c                APBPrescTable
  .rodata.HAL_RCC_GetSysClockFreq.str1.4
-                0x08002518       0x11 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- *fill*         0x08002529        0x3 
+                0x08004b54       0x11 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ *fill*         0x08004b65        0x3 
  .rodata._global_impure_ptr
-                0x0800252c        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
-                0x0800252c                _global_impure_ptr
-                0x08002530                . = ALIGN (0x4)
+                0x08004b68        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                0x08004b68                _global_impure_ptr
+ .rodata._puts_r.str1.4
+                0x08004b6c        0x2 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-puts.o)
+                0x08004b70                . = ALIGN (0x4)
+ *fill*         0x08004b6e        0x2 
 
-.rel.dyn        0x08002530        0x0
- .rel.iplt      0x08002530        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+.rel.dyn        0x08004b70        0x0
+ .rel.iplt      0x08004b70        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
 
-.ARM.extab      0x08002530        0x0
-                0x08002530                . = ALIGN (0x4)
+.ARM.extab      0x08004b70        0x0
+                0x08004b70                . = ALIGN (0x4)
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x08002530                . = ALIGN (0x4)
+                0x08004b70                . = ALIGN (0x4)
 
-.ARM            0x08002530        0x0
-                0x08002530                . = ALIGN (0x4)
-                0x08002530                __exidx_start = .
+.ARM            0x08004b70        0x0
+                0x08004b70                . = ALIGN (0x4)
+                0x08004b70                __exidx_start = .
  *(.ARM.exidx*)
-                0x08002530                __exidx_end = .
-                0x08002530                . = ALIGN (0x4)
+                0x08004b70                __exidx_end = .
+                0x08004b70                . = ALIGN (0x4)
 
-.preinit_array  0x08002530        0x0
-                0x08002530                . = ALIGN (0x4)
-                0x08002530                PROVIDE (__preinit_array_start = .)
+.preinit_array  0x08004b70        0x0
+                0x08004b70                . = ALIGN (0x4)
+                0x08004b70                PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x08002530                PROVIDE (__preinit_array_end = .)
-                0x08002530                . = ALIGN (0x4)
+                0x08004b70                PROVIDE (__preinit_array_end = .)
+                0x08004b70                . = ALIGN (0x4)
 
-.init_array     0x08002530        0x8
-                0x08002530                . = ALIGN (0x4)
-                0x08002530                PROVIDE (__init_array_start = .)
+.init_array     0x08004b70        0x8
+                0x08004b70                . = ALIGN (0x4)
+                0x08004b70                PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  .init_array.00000
-                0x08002530        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x08004b70        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
  *(.init_array*)
- .init_array    0x08002534        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
-                0x08002538                PROVIDE (__init_array_end = .)
-                0x08002538                . = ALIGN (0x4)
+ .init_array    0x08004b74        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x08004b78                PROVIDE (__init_array_end = .)
+                0x08004b78                . = ALIGN (0x4)
 
-.fini_array     0x08002538        0x4
-                0x08002538                . = ALIGN (0x4)
-                0x08002538                PROVIDE (__fini_array_start = .)
+.fini_array     0x08004b78        0x4
+                0x08004b78                . = ALIGN (0x4)
+                0x08004b78                PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x08002538        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
-                0x0800253c                PROVIDE (__fini_array_end = .)
-                0x0800253c                . = ALIGN (0x4)
-                0x0800253c                _sidata = LOADADDR (.data)
+ .fini_array    0x08004b78        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x08004b7c                PROVIDE (__fini_array_end = .)
+                0x08004b7c                . = ALIGN (0x4)
+                0x08004b7c                _sidata = LOADADDR (.data)
 
-.data           0x20000000      0x43c load address 0x0800253c
+.data           0x20000000      0x84c load address 0x08004b7c
                 0x20000000                . = ALIGN (0x4)
                 0x20000000                _sdata = .
  *(.data)
@@ -1585,60 +1819,99 @@ LOAD d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3
  .data.uwTickPrio
                 0x20000008        0x4 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
                 0x20000008                uwTickPrio
- *fill*         0x2000000c        0x4 
+ .data._impure_ptr
+                0x2000000c        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                0x2000000c                _impure_ptr
  .data.impure_data
                 0x20000010      0x428 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
  .data.__atexit_recursive_mutex
                 0x20000438        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
                 0x20000438                __atexit_recursive_mutex
+ .data.__malloc_av_
+                0x2000043c      0x408 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+                0x2000043c                __malloc_av_
+ .data.__malloc_sbrk_base
+                0x20000844        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+                0x20000844                __malloc_sbrk_base
+ .data.__malloc_trim_threshold
+                0x20000848        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+                0x20000848                __malloc_trim_threshold
  *(.RamFunc)
  *(.RamFunc*)
-                0x2000043c                . = ALIGN (0x4)
-                0x2000043c                _edata = .
+                0x2000084c                . = ALIGN (0x4)
+                0x2000084c                _edata = .
 
-.igot.plt       0x2000043c        0x0 load address 0x08002978
- .igot.plt      0x2000043c        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
-                0x2000043c                . = ALIGN (0x4)
+.igot.plt       0x2000084c        0x0 load address 0x080053c8
+ .igot.plt      0x2000084c        0x0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x2000084c                . = ALIGN (0x4)
 
-.bss            0x2000043c      0x18c load address 0x08002978
-                0x2000043c                _sbss = .
-                0x2000043c                __bss_start__ = _sbss
+.bss            0x2000084c      0x1d4 load address 0x080053c8
+                0x2000084c                _sbss = .
+                0x2000084c                __bss_start__ = _sbss
  *(.bss)
- .bss           0x2000043c       0x1c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .bss           0x2000084c       0x1c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
  *(.bss*)
  .bss.hdma_i2c1_rx
-                0x20000458       0x44 CMakeFiles/IIC.elf.dir/Core/Src/i2c.c.obj
-                0x20000458                hdma_i2c1_rx
+                0x20000868       0x44 CMakeFiles/IIC.elf.dir/Core/Src/i2c.c.obj
+                0x20000868                hdma_i2c1_rx
  .bss.hdma_i2c1_tx
-                0x2000049c       0x44 CMakeFiles/IIC.elf.dir/Core/Src/i2c.c.obj
-                0x2000049c                hdma_i2c1_tx
- .bss.hi2c1     0x200004e0       0x54 CMakeFiles/IIC.elf.dir/Core/Src/i2c.c.obj
-                0x200004e0                hi2c1
- .bss.htim3     0x20000534       0x48 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
-                0x20000534                htim3
- .bss.huart1    0x2000057c       0x44 CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
-                0x2000057c                huart1
- .bss.uwTick    0x200005c0        0x4 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x200005c0                uwTick
+                0x200008ac       0x44 CMakeFiles/IIC.elf.dir/Core/Src/i2c.c.obj
+                0x200008ac                hdma_i2c1_tx
+ .bss.hi2c1     0x200008f0       0x54 CMakeFiles/IIC.elf.dir/Core/Src/i2c.c.obj
+                0x200008f0                hi2c1
+ .bss.__sbrk_heap_end
+                0x20000944        0x4 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
+ .bss.htim3     0x20000948       0x48 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
+                0x20000948                htim3
+ .bss.huart1    0x20000990       0x44 CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
+                0x20000990                huart1
+ .bss.uwTick    0x200009d4        0x4 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x200009d4                uwTick
  .bss.__lock___atexit_recursive_mutex
-                0x200005c4        0x1 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
-                0x200005c4                __lock___atexit_recursive_mutex
+                0x200009d8        0x1 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x200009d8                __lock___atexit_recursive_mutex
+ *fill*         0x200009d9        0x3 
+ .bss.__lock___malloc_recursive_mutex
+                0x200009dc        0x1 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x200009dc                __lock___malloc_recursive_mutex
+ *fill*         0x200009dd        0x3 
+ .bss.__lock___sfp_recursive_mutex
+                0x200009e0        0x1 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x200009e0                __lock___sfp_recursive_mutex
+ *fill*         0x200009e1        0x3 
+ .bss.__lock___sinit_recursive_mutex
+                0x200009e4        0x1 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x200009e4                __lock___sinit_recursive_mutex
+ *fill*         0x200009e5        0x3 
+ .bss.__malloc_current_mallinfo
+                0x200009e8       0x28 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+                0x200009e8                __malloc_current_mallinfo
+ .bss.__malloc_max_sbrked_mem
+                0x20000a10        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+                0x20000a10                __malloc_max_sbrked_mem
+ .bss.__malloc_max_total_mem
+                0x20000a14        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+                0x20000a14                __malloc_max_total_mem
+ .bss.__malloc_top_pad
+                0x20000a18        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+                0x20000a18                __malloc_top_pad
+ .bss.errno     0x20000a1c        0x4 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reent.o)
+                0x20000a1c                errno
  *(COMMON)
-                0x200005c8                . = ALIGN (0x4)
- *fill*         0x200005c5        0x3 
-                0x200005c8                _ebss = .
-                0x200005c8                __bss_end__ = _ebss
+                0x20000a20                . = ALIGN (0x4)
+                0x20000a20                _ebss = .
+                0x20000a20                __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x200005c8      0x600 load address 0x08002978
-                0x200005c8                . = ALIGN (0x8)
+                0x20000a20      0x600 load address 0x080053c8
+                0x20000a20                . = ALIGN (0x8)
                 [!provide]                PROVIDE (end = .)
-                0x200005c8                PROVIDE (_end = .)
-                0x200007c8                . = (. + _Min_Heap_Size)
- *fill*         0x200005c8      0x200 
-                0x20000bc8                . = (. + _Min_Stack_Size)
- *fill*         0x200007c8      0x400 
-                0x20000bc8                . = ALIGN (0x8)
+                0x20000a20                PROVIDE (_end = .)
+                0x20000c20                . = (. + _Min_Heap_Size)
+ *fill*         0x20000a20      0x200 
+                0x20001020                . = (. + _Min_Stack_Size)
+ *fill*         0x20000c20      0x400 
+                0x20001020                . = ALIGN (0x8)
 
 /DISCARD/
  libc.a(*)
@@ -1665,98 +1938,158 @@ LOAD d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3
  .ARM.attributes
                 0x0000012b       0x2d CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
  .ARM.attributes
-                0x00000158       0x2d CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x00000158       0x2d CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
  .ARM.attributes
-                0x00000185       0x2d CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
+                0x00000185       0x2d CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
  .ARM.attributes
-                0x000001b2       0x2d CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
+                0x000001b2       0x2d CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
  .ARM.attributes
-                0x000001df       0x21 CMakeFiles/IIC.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+                0x000001df       0x2d CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
  .ARM.attributes
-                0x00000200       0x2d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000020c       0x2d CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
  .ARM.attributes
-                0x0000022d       0x2d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x00000239       0x21 CMakeFiles/IIC.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
  .ARM.attributes
-                0x0000025a       0x2d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x0000025a       0x2d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .ARM.attributes
-                0x00000287       0x2d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x00000287       0x2d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .ARM.attributes
-                0x000002b4       0x2d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+                0x000002b4       0x2d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
  .ARM.attributes
-                0x000002e1       0x2d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x000002e1       0x2d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
  .ARM.attributes
-                0x0000030e       0x2d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000030e       0x2d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .ARM.attributes
-                0x0000033b       0x2d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                0x0000033b       0x2d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .ARM.attributes
-                0x00000368       0x2d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x00000368       0x2d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .ARM.attributes
-                0x00000395       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                0x00000395       0x2d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
  .ARM.attributes
-                0x000003c2       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+                0x000003c2       0x2d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .ARM.attributes
-                0x000003ef       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+                0x000003ef       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
  .ARM.attributes
-                0x0000041c       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x0000041c       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
  .ARM.attributes
-                0x00000449       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+                0x00000449       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
  .ARM.attributes
-                0x00000476       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+                0x00000476       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
  .ARM.attributes
-                0x000004a3       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x000004a3       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-puts.o)
  .ARM.attributes
-                0x000004d0       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+                0x000004d0       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-strlen-stub.o)
  .ARM.attributes
-                0x000004fd       0x1d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+                0x000004fd       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000052a       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000557       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x00000584       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000005b1       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x000005de       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x0000060b       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000638       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000665       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x00000692       0x1b d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000006ad       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x000006da       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000707       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x00000734       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000761       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x0000078e       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-writer.o)
+ .ARM.attributes
+                0x000007bb       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x000007e8       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000815       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-closer.o)
+ .ARM.attributes
+                0x00000842       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fclose.o)
+ .ARM.attributes
+                0x0000086f       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x0000089c       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-freer.o)
+ .ARM.attributes
+                0x000008c9       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x000008f6       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x00000923       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-readr.o)
+ .ARM.attributes
+                0x00000950       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000097d       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x000009aa       0x2d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x000009d7       0x1d d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
 OUTPUT(IIC.elf elf32-littlearm)
 LOAD linker stubs
 LOAD d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
 LOAD d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
 LOAD d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a
 
-.debug_info     0x00000000    0x11515
+.debug_info     0x00000000    0x12258
  .debug_info    0x00000000      0x38a CMakeFiles/IIC.elf.dir/Core/Src/dma.c.obj
  .debug_info    0x0000038a      0x17c CMakeFiles/IIC.elf.dir/Core/Src/gpio.c.obj
  .debug_info    0x00000506      0x937 CMakeFiles/IIC.elf.dir/Core/Src/i2c.c.obj
- .debug_info    0x00000e3d      0xbdd CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
- .debug_info    0x00001a1a      0x17c CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_info    0x00001b96      0x683 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_info    0x00002219      0x248 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_info    0x00002461      0xb87 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
- .debug_info    0x00002fe8      0xa43 CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
- .debug_info    0x00003a2b       0x22 CMakeFiles/IIC.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
- .debug_info    0x00003a4d      0x80e CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_info    0x0000425b      0xdf0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_info    0x0000504b      0x846 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_info    0x00005891      0x66f CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_info    0x00005f00     0x3a6b CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .debug_info    0x0000996b      0xa36 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_info    0x0000a3a1     0x3b00 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_info    0x0000dea1     0x19e9 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
- .debug_info    0x0000f88a     0x1c8b CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_info    0x00000e3d      0xffd CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x00001e3a      0x17c CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_info    0x00001fb6      0x683 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_info    0x00002639      0x7af CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x00002de8      0x174 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
+ .debug_info    0x00002f5c      0x248 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_info    0x000031a4      0xb87 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
+ .debug_info    0x00003d2b      0xa43 CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
+ .debug_info    0x0000476e       0x22 CMakeFiles/IIC.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+ .debug_info    0x00004790      0x80e CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_info    0x00004f9e      0xdf0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_info    0x00005d8e      0x846 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_info    0x000065d4      0x66f CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_info    0x00006c43     0x3a6b CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_info    0x0000a6ae      0xa36 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_info    0x0000b0e4     0x3b00 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_info    0x0000ebe4     0x19e9 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_info    0x000105cd     0x1c8b CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
 
-.debug_abbrev   0x00000000     0x2224
+.debug_abbrev   0x00000000     0x24c4
  .debug_abbrev  0x00000000      0x114 CMakeFiles/IIC.elf.dir/Core/Src/dma.c.obj
  .debug_abbrev  0x00000114       0xbf CMakeFiles/IIC.elf.dir/Core/Src/gpio.c.obj
  .debug_abbrev  0x000001d3      0x1c9 CMakeFiles/IIC.elf.dir/Core/Src/i2c.c.obj
- .debug_abbrev  0x0000039c      0x229 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
- .debug_abbrev  0x000005c5       0xbf CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_abbrev  0x00000684      0x154 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_abbrev  0x000007d8      0x13e CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_abbrev  0x00000916      0x214 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
- .debug_abbrev  0x00000b2a      0x1ca CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
- .debug_abbrev  0x00000cf4       0x12 CMakeFiles/IIC.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
- .debug_abbrev  0x00000d06      0x1f4 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_abbrev  0x00000efa      0x341 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_abbrev  0x0000123b      0x223 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_abbrev  0x0000145e      0x1e6 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_abbrev  0x00001644      0x293 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .debug_abbrev  0x000018d7      0x27a CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_abbrev  0x00001b51      0x23e CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_abbrev  0x00001d8f      0x241 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
- .debug_abbrev  0x00001fd0      0x254 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_abbrev  0x0000039c      0x23f CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x000005db       0xbf CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_abbrev  0x0000069a      0x154 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_abbrev  0x000007ee      0x1a3 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
+ .debug_abbrev  0x00000991       0xe7 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
+ .debug_abbrev  0x00000a78      0x13e CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_abbrev  0x00000bb6      0x214 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
+ .debug_abbrev  0x00000dca      0x1ca CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
+ .debug_abbrev  0x00000f94       0x12 CMakeFiles/IIC.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+ .debug_abbrev  0x00000fa6      0x1f4 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_abbrev  0x0000119a      0x341 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_abbrev  0x000014db      0x223 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_abbrev  0x000016fe      0x1e6 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_abbrev  0x000018e4      0x293 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_abbrev  0x00001b77      0x27a CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_abbrev  0x00001df1      0x23e CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_abbrev  0x0000202f      0x241 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x00002270      0x254 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
 
-.debug_aranges  0x00000000      0xeb0
+.debug_aranges  0x00000000      0xf78
  .debug_aranges
                 0x00000000       0x20 CMakeFiles/IIC.elf.dir/Core/Src/dma.c.obj
  .debug_aranges
@@ -1770,112 +2103,124 @@ LOAD d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3
  .debug_aranges
                 0x000000d0       0x78 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
  .debug_aranges
-                0x00000148       0x28 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x00000148       0xa8 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
  .debug_aranges
-                0x00000170       0x38 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
+                0x000001f0       0x20 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
  .debug_aranges
-                0x000001a8       0x30 CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
+                0x00000210       0x28 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
  .debug_aranges
-                0x000001d8       0x28 CMakeFiles/IIC.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+                0x00000238       0x38 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
  .debug_aranges
-                0x00000200       0xe0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x00000270       0x30 CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
  .debug_aranges
-                0x000002e0       0x90 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x000002a0       0x28 CMakeFiles/IIC.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
  .debug_aranges
-                0x00000370       0x80 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x000002c8       0xe0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .debug_aranges
-                0x000003f0       0x58 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x000003a8       0x90 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .debug_aranges
-                0x00000448      0x2a0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+                0x00000438       0x80 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
  .debug_aranges
-                0x000006e8       0x90 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x000004b8       0x58 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
  .debug_aranges
-                0x00000778      0x3d0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x00000510      0x2a0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
  .debug_aranges
-                0x00000b48      0x168 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                0x000007b0       0x90 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .debug_aranges
-                0x00000cb0      0x200 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x00000840      0x3d0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_aranges
+                0x00000c10      0x168 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_aranges
+                0x00000d78      0x200 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
 
-.debug_ranges   0x00000000      0xe20
+.debug_ranges   0x00000000      0xec8
  .debug_ranges  0x00000000       0x10 CMakeFiles/IIC.elf.dir/Core/Src/dma.c.obj
  .debug_ranges  0x00000010       0x10 CMakeFiles/IIC.elf.dir/Core/Src/gpio.c.obj
  .debug_ranges  0x00000020       0x20 CMakeFiles/IIC.elf.dir/Core/Src/i2c.c.obj
  .debug_ranges  0x00000040       0x30 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
  .debug_ranges  0x00000070       0x10 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
  .debug_ranges  0x00000080       0x68 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_ranges  0x000000e8       0x18 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_ranges  0x00000100       0x28 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
- .debug_ranges  0x00000128       0x20 CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
- .debug_ranges  0x00000148       0x20 CMakeFiles/IIC.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
- .debug_ranges  0x00000168       0xd0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_ranges  0x00000238       0xe0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_ranges  0x00000318       0x70 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_ranges  0x00000388       0x48 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_ranges  0x000003d0      0x2a8 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .debug_ranges  0x00000678       0xa0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_ranges  0x00000718      0x3c0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_ranges  0x00000ad8      0x158 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
- .debug_ranges  0x00000c30      0x1f0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_ranges  0x000000e8       0x98 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
+ .debug_ranges  0x00000180       0x10 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
+ .debug_ranges  0x00000190       0x18 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_ranges  0x000001a8       0x28 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
+ .debug_ranges  0x000001d0       0x20 CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
+ .debug_ranges  0x000001f0       0x20 CMakeFiles/IIC.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+ .debug_ranges  0x00000210       0xd0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_ranges  0x000002e0       0xe0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_ranges  0x000003c0       0x70 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_ranges  0x00000430       0x48 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_ranges  0x00000478      0x2a8 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_ranges  0x00000720       0xa0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_ranges  0x000007c0      0x3c0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_ranges  0x00000b80      0x158 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_ranges  0x00000cd8      0x1f0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
 
-.debug_line     0x00000000    0x122a7
+.debug_line     0x00000000    0x128fe
  .debug_line    0x00000000      0x1fa CMakeFiles/IIC.elf.dir/Core/Src/dma.c.obj
  .debug_line    0x000001fa      0x195 CMakeFiles/IIC.elf.dir/Core/Src/gpio.c.obj
  .debug_line    0x0000038f      0x411 CMakeFiles/IIC.elf.dir/Core/Src/i2c.c.obj
- .debug_line    0x000007a0      0x45d CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
- .debug_line    0x00000bfd      0x1a2 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_line    0x00000d9f      0x377 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_line    0x00001116      0x272 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_line    0x00001388      0x40e CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
- .debug_line    0x00001796      0x398 CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
- .debug_line    0x00001b2e       0xb1 CMakeFiles/IIC.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
- .debug_line    0x00001bdf      0x5b4 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_line    0x00002193      0x692 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_line    0x00002825      0xd44 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_line    0x00003569      0x650 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_line    0x00003bb9     0x55a0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .debug_line    0x00009159      0xc85 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_line    0x00009dde     0x4796 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_line    0x0000e574     0x1c1f CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
- .debug_line    0x00010193     0x2114 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_line    0x000007a0      0x4c3 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x00000c63      0x1a2 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x00000e05      0x377 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_line    0x0000117c      0x41d CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x00001599      0x1d4 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
+ .debug_line    0x0000176d      0x272 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_line    0x000019df      0x40e CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
+ .debug_line    0x00001ded      0x398 CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
+ .debug_line    0x00002185       0xb1 CMakeFiles/IIC.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+ .debug_line    0x00002236      0x5b4 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_line    0x000027ea      0x692 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_line    0x00002e7c      0xd44 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_line    0x00003bc0      0x650 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x00004210     0x55a0 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_line    0x000097b0      0xc85 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_line    0x0000a435     0x4796 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_line    0x0000ebcb     0x1c1f CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_line    0x000107ea     0x2114 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
 
-.debug_str      0x00000000     0x4612
+.debug_str      0x00000000     0x490c
  .debug_str     0x00000000      0x5d9 CMakeFiles/IIC.elf.dir/Core/Src/dma.c.obj
                                 0x616 (size before relaxing)
  .debug_str     0x000005d9       0x4a CMakeFiles/IIC.elf.dir/Core/Src/gpio.c.obj
                                 0x237 (size before relaxing)
  .debug_str     0x00000623      0x564 CMakeFiles/IIC.elf.dir/Core/Src/i2c.c.obj
                                 0x7bc (size before relaxing)
- .debug_str     0x00000b87      0x671 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
-                                0xad7 (size before relaxing)
- .debug_str     0x000011f8       0x56 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_str     0x00000b87      0x6d1 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
+                                0xdb3 (size before relaxing)
+ .debug_str     0x00001258       0x56 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
                                 0x243 (size before relaxing)
- .debug_str     0x0000124e      0x14c CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_str     0x000012ae      0x14c CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
                                 0x6e6 (size before relaxing)
- .debug_str     0x0000139a       0xa8 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_str     0x000013fa      0x235 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
+                                0x43e (size before relaxing)
+ .debug_str     0x0000162f       0x9f CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
+                                0x26a (size before relaxing)
+ .debug_str     0x000016ce       0xa8 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
                                 0x2a6 (size before relaxing)
- .debug_str     0x00001442      0x242 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
+ .debug_str     0x00001776      0x242 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
                                 0x99b (size before relaxing)
- .debug_str     0x00001684       0x8f CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
+ .debug_str     0x000019b8       0x8f CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
                                 0xadf (size before relaxing)
- .debug_str     0x00001713       0x60 CMakeFiles/IIC.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+ .debug_str     0x00001a47       0x60 CMakeFiles/IIC.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
                                  0x9f (size before relaxing)
- .debug_str     0x00001773      0x338 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_str     0x00001aa7      0x329 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
                                 0x95a (size before relaxing)
- .debug_str     0x00001aab      0x3c8 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_str     0x00001dd0      0x3c8 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
                                 0xa09 (size before relaxing)
- .debug_str     0x00001e73      0x23a CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_str     0x00002198      0x23a CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
                                 0x64f (size before relaxing)
- .debug_str     0x000020ad      0x16d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_str     0x000023d2      0x16d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
                                 0x452 (size before relaxing)
- .debug_str     0x0000221a      0x8ec CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_str     0x0000253f      0x8c1 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
                                0x100a (size before relaxing)
- .debug_str     0x00002b06      0x1fe CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_str     0x00002e00      0x1fe CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
                                 0x67d (size before relaxing)
- .debug_str     0x00002d04      0xde6 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_str     0x00002ffe      0xde6 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
                                0x168a (size before relaxing)
- .debug_str     0x00003aea      0x54e CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_str     0x00003de4      0x54e CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
                                 0xe8b (size before relaxing)
- .debug_str     0x00004038      0x5da CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_str     0x00004332      0x5da CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
                                 0xce0 (size before relaxing)
 
 .comment        0x00000000       0x49
@@ -1886,6 +2231,8 @@ LOAD d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3
  .comment       0x00000049       0x4a CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
  .comment       0x00000049       0x4a CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
  .comment       0x00000049       0x4a CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
  .comment       0x00000049       0x4a CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
  .comment       0x00000049       0x4a CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
  .comment       0x00000049       0x4a CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
@@ -1899,45 +2246,74 @@ LOAD d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3
  .comment       0x00000049       0x4a CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
  .comment       0x00000049       0x4a CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
 
-.debug_frame    0x00000000     0x2a2c
+.debug_frame    0x00000000     0x33ac
  .debug_frame   0x00000000       0x2c CMakeFiles/IIC.elf.dir/Core/Src/dma.c.obj
  .debug_frame   0x0000002c       0x28 CMakeFiles/IIC.elf.dir/Core/Src/gpio.c.obj
  .debug_frame   0x00000054       0x68 CMakeFiles/IIC.elf.dir/Core/Src/i2c.c.obj
- .debug_frame   0x000000bc       0x84 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
- .debug_frame   0x00000140       0x28 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_frame   0x00000168       0xf0 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_frame   0x00000258       0x30 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_frame   0x00000288       0x78 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
- .debug_frame   0x00000300       0x64 CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
- .debug_frame   0x00000364      0x1cc CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_frame   0x00000530      0x118 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_frame   0x00000648      0x140 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_frame   0x00000788       0xe4 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_frame   0x0000086c      0x970 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .debug_frame   0x000011dc      0x190 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_frame   0x0000136c      0xb04 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_frame   0x00001e70      0x40c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
- .debug_frame   0x0000227c      0x5c4 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_frame   0x00002840       0x2c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
- .debug_frame   0x0000286c       0x2c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
- .debug_frame   0x00002898       0x5c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
- .debug_frame   0x000028f4       0x20 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
- .debug_frame   0x00002914       0x34 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
- .debug_frame   0x00002948       0xb0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
- .debug_frame   0x000029f8       0x34 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .debug_frame   0x000000bc       0x94 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
+ .debug_frame   0x00000150       0x28 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_frame   0x00000178       0xf0 CMakeFiles/IIC.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_frame   0x00000268      0x190 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
+ .debug_frame   0x000003f8       0x28 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
+ .debug_frame   0x00000420       0x30 CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_frame   0x00000450       0x78 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
+ .debug_frame   0x000004c8       0x64 CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
+ .debug_frame   0x0000052c      0x1cc CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_frame   0x000006f8      0x118 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_frame   0x00000810      0x140 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_frame   0x00000950       0xe4 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_frame   0x00000a34      0x970 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_frame   0x000013a4      0x190 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_frame   0x00001534      0xb04 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_frame   0x00002038      0x40c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_frame   0x00002444      0x5c4 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_frame   0x00002a08       0x20 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .debug_frame   0x00002a28       0x2c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .debug_frame   0x00002a54       0x2c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .debug_frame   0x00002a80       0x48 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-puts.o)
+ .debug_frame   0x00002ac8       0x20 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-strlen-stub.o)
+ .debug_frame   0x00002ae8       0x5c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00002b44       0x20 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00002b64      0x154 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-findfp.o)
+ .debug_frame   0x00002cb8       0x34 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .debug_frame   0x00002cec       0x64 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fvwrite.o)
+ .debug_frame   0x00002d50       0x54 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fwalk.o)
+ .debug_frame   0x00002da4       0xb0 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .debug_frame   0x00002e54       0x4c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+ .debug_frame   0x00002ea0       0x28 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memchr-stub.o)
+ .debug_frame   0x00002ec8       0x40 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memmove.o)
+ .debug_frame   0x00002f08       0x30 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mlock.o)
+ .debug_frame   0x00002f38       0x48 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reallocr.o)
+ .debug_frame   0x00002f80       0x2c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-sbrkr.o)
+ .debug_frame   0x00002fac       0x8c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-stdio.o)
+ .debug_frame   0x00003038       0x2c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-writer.o)
+ .debug_frame   0x00003064       0x2c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-wsetup.o)
+ .debug_frame   0x00003090       0x34 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .debug_frame   0x000030c4       0x2c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-closer.o)
+ .debug_frame   0x000030f0       0x3c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fclose.o)
+ .debug_frame   0x0000312c       0x70 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fflush.o)
+ .debug_frame   0x0000319c       0x8c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-freer.o)
+ .debug_frame   0x00003228       0x2c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lseekr.o)
+ .debug_frame   0x00003254       0x70 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-makebuf.o)
+ .debug_frame   0x000032c4       0x2c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-readr.o)
+ .debug_frame   0x000032f0       0x64 d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reent.o)
+ .debug_frame   0x00003354       0x2c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fstatr.o)
+ .debug_frame   0x00003380       0x2c d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-isattyr.o)
 
-.debug_loc      0x00000000     0xe1c2
+.debug_loc      0x00000000     0xe627
  .debug_loc     0x00000000       0x7e CMakeFiles/IIC.elf.dir/Core/Src/i2c.c.obj
- .debug_loc     0x0000007e       0x23 CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
- .debug_loc     0x000000a1       0xff CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_loc     0x000001a0       0x77 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
- .debug_loc     0x00000217       0x84 CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
- .debug_loc     0x0000029b      0x141 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_loc     0x000003dc      0x71f CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_loc     0x00000afb      0x7ce CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_loc     0x000012c9      0x47d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_loc     0x00001746     0x41a9 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .debug_loc     0x000058ef      0x63e CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_loc     0x00005f2d     0x474c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_loc     0x0000a679     0x1b12 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
- .debug_loc     0x0000c18b     0x2037 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_loc     0x0000007e       0x5f CMakeFiles/IIC.elf.dir/Core/Src/main.c.obj
+ .debug_loc     0x000000dd      0x3c5 CMakeFiles/IIC.elf.dir/Core/Src/syscalls.c.obj
+ .debug_loc     0x000004a2       0x64 CMakeFiles/IIC.elf.dir/Core/Src/sysmem.c.obj
+ .debug_loc     0x00000506       0xff CMakeFiles/IIC.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_loc     0x00000605       0x77 CMakeFiles/IIC.elf.dir/Core/Src/tim.c.obj
+ .debug_loc     0x0000067c       0x84 CMakeFiles/IIC.elf.dir/Core/Src/usart.c.obj
+ .debug_loc     0x00000700      0x141 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_loc     0x00000841      0x71f CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_loc     0x00000f60      0x7ce CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_loc     0x0000172e      0x47d CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_loc     0x00001bab     0x41a9 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_loc     0x00005d54      0x63e CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_loc     0x00006392     0x474c CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_loc     0x0000aade     0x1b12 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_loc     0x0000c5f0     0x2037 CMakeFiles/IIC.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
