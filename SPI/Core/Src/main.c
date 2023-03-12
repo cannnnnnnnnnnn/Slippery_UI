@@ -243,18 +243,6 @@ int main(void)
     OLED_Init();
     OLED_ColorTurn(0);//0正常显示，1 反色显示
     OLED_DisplayTurn(0);//0正常显示 1 屏幕翻转显示
-
-//    HAL_SPI_Transmit_DMA(&hspi2,cmd,1);
-//    HAL_SPI_Transmit_DMA(&hspi2,cmd+1,1);
-//    HAL_SPI_Transmit_DMA(&hspi2,cmd+1,1);
-//    HAL_SPI_Transmit_DMA(&hspi2,cmd+1,1);
-//    HAL_SPI_TransmitReceive_DMA(&hspi2,cmd+2,&data,1);
-//    resiveid = data << 8;
-//    HAL_SPI_TransmitReceive_DMA(&hspi2,cmd+2,&data,1);
-//    resiveid |= data;
-//    printf("ID = %d\n",resiveid);
-
-
     uint8_t  t=' ';
   /* USER CODE END 2 */
 

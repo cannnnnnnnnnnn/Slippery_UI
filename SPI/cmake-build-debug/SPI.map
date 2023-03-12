@@ -1727,26 +1727,26 @@ LOAD d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3
 LOAD d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
 LOAD d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a
 
-.debug_info     0x00000000     0xb86f
+.debug_info     0x00000000     0xb86e
  .debug_info    0x00000000      0x38a CMakeFiles/SPI.elf.dir/Core/Src/dma.c.obj
  .debug_info    0x0000038a      0x330 CMakeFiles/SPI.elf.dir/Core/Src/gpio.c.obj
- .debug_info    0x000006ba      0xe21 CMakeFiles/SPI.elf.dir/Core/Src/main.c.obj
- .debug_info    0x000014db     0x1881 CMakeFiles/SPI.elf.dir/Core/Src/oled.c.obj
- .debug_info    0x00002d5c      0x915 CMakeFiles/SPI.elf.dir/Core/Src/spi.c.obj
- .debug_info    0x00003671      0x17c CMakeFiles/SPI.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_info    0x000037ed      0x3dc CMakeFiles/SPI.elf.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_info    0x00003bc9      0x7af CMakeFiles/SPI.elf.dir/Core/Src/syscalls.c.obj
- .debug_info    0x00004378      0x174 CMakeFiles/SPI.elf.dir/Core/Src/sysmem.c.obj
- .debug_info    0x000044ec      0x248 CMakeFiles/SPI.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_info    0x00004734      0x827 CMakeFiles/SPI.elf.dir/Core/Src/usart.c.obj
- .debug_info    0x00004f5b       0x22 CMakeFiles/SPI.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
- .debug_info    0x00004f7d      0x80e CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_info    0x0000578b      0xdf0 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_info    0x0000657b      0x846 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_info    0x00006dc1      0x66f CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_info    0x00007430      0xa36 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_info    0x00007e66     0x1d7e CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
- .debug_info    0x00009be4     0x1c8b CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_info    0x000006ba      0xe20 CMakeFiles/SPI.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x000014da     0x1881 CMakeFiles/SPI.elf.dir/Core/Src/oled.c.obj
+ .debug_info    0x00002d5b      0x915 CMakeFiles/SPI.elf.dir/Core/Src/spi.c.obj
+ .debug_info    0x00003670      0x17c CMakeFiles/SPI.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_info    0x000037ec      0x3dc CMakeFiles/SPI.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_info    0x00003bc8      0x7af CMakeFiles/SPI.elf.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x00004377      0x174 CMakeFiles/SPI.elf.dir/Core/Src/sysmem.c.obj
+ .debug_info    0x000044eb      0x248 CMakeFiles/SPI.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_info    0x00004733      0x827 CMakeFiles/SPI.elf.dir/Core/Src/usart.c.obj
+ .debug_info    0x00004f5a       0x22 CMakeFiles/SPI.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+ .debug_info    0x00004f7c      0x80e CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_info    0x0000578a      0xdf0 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_info    0x0000657a      0x846 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_info    0x00006dc0      0x66f CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_info    0x0000742f      0xa36 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_info    0x00007e65     0x1d7e CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .debug_info    0x00009be3     0x1c8b CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
 
 .debug_abbrev   0x00000000     0x20b6
  .debug_abbrev  0x00000000      0x114 CMakeFiles/SPI.elf.dir/Core/Src/dma.c.obj
@@ -1830,26 +1830,26 @@ LOAD d:/clion_stm32/stm32cude/gun-arm-embedded/bin/../lib/gcc/arm-none-eabi/10.3
  .debug_ranges  0x00000580      0x1c0 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
  .debug_ranges  0x00000740      0x1f0 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
 
-.debug_line     0x00000000     0x9d6c
+.debug_line     0x00000000     0x9d6a
  .debug_line    0x00000000      0x1fa CMakeFiles/SPI.elf.dir/Core/Src/dma.c.obj
  .debug_line    0x000001fa      0x24d CMakeFiles/SPI.elf.dir/Core/Src/gpio.c.obj
- .debug_line    0x00000447      0x476 CMakeFiles/SPI.elf.dir/Core/Src/main.c.obj
- .debug_line    0x000008bd      0xcc9 CMakeFiles/SPI.elf.dir/Core/Src/oled.c.obj
- .debug_line    0x00001586      0x43b CMakeFiles/SPI.elf.dir/Core/Src/spi.c.obj
- .debug_line    0x000019c1      0x1a2 CMakeFiles/SPI.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_line    0x00001b63      0x346 CMakeFiles/SPI.elf.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_line    0x00001ea9      0x41d CMakeFiles/SPI.elf.dir/Core/Src/syscalls.c.obj
- .debug_line    0x000022c6      0x1d4 CMakeFiles/SPI.elf.dir/Core/Src/sysmem.c.obj
- .debug_line    0x0000249a      0x272 CMakeFiles/SPI.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_line    0x0000270c      0x379 CMakeFiles/SPI.elf.dir/Core/Src/usart.c.obj
- .debug_line    0x00002a85       0xb1 CMakeFiles/SPI.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
- .debug_line    0x00002b36      0x5b4 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_line    0x000030ea      0x692 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_line    0x0000377c      0xd44 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_line    0x000044c0      0x650 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_line    0x00004b10      0xc85 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_line    0x00005795     0x24c3 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
- .debug_line    0x00007c58     0x2114 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_line    0x00000447      0x474 CMakeFiles/SPI.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x000008bb      0xcc9 CMakeFiles/SPI.elf.dir/Core/Src/oled.c.obj
+ .debug_line    0x00001584      0x43b CMakeFiles/SPI.elf.dir/Core/Src/spi.c.obj
+ .debug_line    0x000019bf      0x1a2 CMakeFiles/SPI.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x00001b61      0x346 CMakeFiles/SPI.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_line    0x00001ea7      0x41d CMakeFiles/SPI.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x000022c4      0x1d4 CMakeFiles/SPI.elf.dir/Core/Src/sysmem.c.obj
+ .debug_line    0x00002498      0x272 CMakeFiles/SPI.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_line    0x0000270a      0x379 CMakeFiles/SPI.elf.dir/Core/Src/usart.c.obj
+ .debug_line    0x00002a83       0xb1 CMakeFiles/SPI.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+ .debug_line    0x00002b34      0x5b4 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_line    0x000030e8      0x692 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_line    0x0000377a      0xd44 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_line    0x000044be      0x650 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x00004b0e      0xc85 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_line    0x00005793     0x24c3 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .debug_line    0x00007c56     0x2114 CMakeFiles/SPI.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
 
 .debug_str      0x00000000     0x2e94
  .debug_str     0x00000000      0x5d4 CMakeFiles/SPI.elf.dir/Core/Src/dma.c.obj

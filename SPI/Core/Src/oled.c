@@ -424,7 +424,7 @@ const unsigned char Hzk4[][512]={
 
 };
 
-u8 OLED_GRAM[144][8];
+uint8_t OLED_GRAM[144][8];
 
 void OLED_Init(void ){
     // 初始化复位
@@ -491,7 +491,7 @@ void OLED_WR_Byte_DATA(uint8_t cmd_data){
 }
 
 //反显函数
-void OLED_ColorTurn(u8 i)
+void OLED_ColorTurn(uint8_t i)
 {
     if(i==0)
     {
@@ -504,7 +504,7 @@ void OLED_ColorTurn(u8 i)
 }
 
 //屏幕旋转180度
-void OLED_DisplayTurn(u8 i)
+void OLED_DisplayTurn(uint8_t i)
 {
     if(i==0)
     {
@@ -537,7 +537,7 @@ void OLED_DisPlay_Off(void)
 //更新显存到OLED
 void OLED_Refresh(void)
 {
-    u8 i,n;
+    uint8_t i,n;
     for(i=0;i<8;i++)
     {
         OLED_WR_Byte_CMD(0xb0+i); //设置行起始地址
@@ -551,7 +551,7 @@ void OLED_Refresh(void)
 //清屏函数
 void OLED_Clear(void)
 {
-    u8 i,n;
+    uint8_t i,n;
     for(i=0;i<8;i++)
     {
         for(n=0;n<128;n++)
@@ -567,9 +567,9 @@ void OLED_Clear(void)
 //x:0~127
 //y:0~63
 //t:1 填充 0,清空
-void OLED_DrawPoint(u8 x,u8 y,u8 t)
+void OLED_DrawPoint(uint8_t x,uint8_t y,uint8_t t)
 {
-    u8 i,m,n;
+    uint8_t i,m,n;
     i=y/8;
     m=y%8;
     n=1<<m;
@@ -585,9 +585,9 @@ void OLED_DrawPoint(u8 x,u8 y,u8 t)
 //画线
 //x1,y1:起点坐标
 //x2,y2:结束坐标
-void OLED_DrawLine(u8 x1,u8 y1,u8 x2,u8 y2,u8 mode)
+void OLED_DrawLine(uint8_t x1,uint8_t y1,uint8_t x2,uint8_t y2,uint8_t mode)
 {
-    u16 t;
+    uint16_t t;
     int xerr=0,yerr=0,delta_x,delta_y,distance;
     int incx,incy,uRow,uCol;
     delta_x=x2-x1; //计算坐标增量
@@ -621,7 +621,7 @@ void OLED_DrawLine(u8 x1,u8 y1,u8 x2,u8 y2,u8 mode)
 }
 //x,y:圆心坐标
 //r:圆的半径
-void OLED_DrawCircle(u8 x,u8 y,u8 r)
+void OLED_DrawCircle(uint8_t x,uint8_t y,uint8_t r)
 {
     int a, b,num;
     a = 0;
@@ -655,10 +655,10 @@ void OLED_DrawCircle(u8 x,u8 y,u8 r)
 //y:0~63
 //size1:选择字体 6x8/6x12/8x16/12x24
 //mode:0,反色显示;1,正常显示
-void OLED_ShowChar(u8 x,u8 y,u8 chr,u8 size1,u8 mode)
+void OLED_ShowChar(uint8_t x,uint8_t y,uint8_t chr,uint8_t size1,uint8_t mode)
 {
-    u8 i,m,temp,size2,chr1;
-    u8 x0=x,y0=y;
+    uint8_t i,m,temp,size2,chr1;
+    uint8_t x0=x,y0=y;
     if(size1==8)size2=6;
     else size2=(size1/8+((size1%8)?1:0))*(size1/2);  //得到字体一个字符对应点阵集所占的字节数
     chr1=chr-' ';  //计算偏移后的值
@@ -693,7 +693,7 @@ void OLED_ShowChar(u8 x,u8 y,u8 chr,u8 size1,u8 mode)
 //size1:字体大小
 //*chr:字符串起始地址
 //mode:0,反色显示;1,正常显示
-void OLED_ShowString(u8 x,u8 y,u8 *chr,u8 size1,u8 mode)
+void OLED_ShowString(uint8_t x,uint8_t y,uint8_t *chr,uint8_t size1,uint8_t mode)
 {
     while((*chr>=' ')&&(*chr<='~'))//判断是不是非法字符!
     {
@@ -705,9 +705,9 @@ void OLED_ShowString(u8 x,u8 y,u8 *chr,u8 size1,u8 mode)
 }
 
 //m^n
-u32 OLED_Pow(u8 m,u8 n)
+uint32_t OLED_Pow(uint8_t m,uint8_t n)
 {
-    u32 result=1;
+    uint32_t result=1;
     while(n--)
     {
         result*=m;
@@ -721,9 +721,9 @@ u32 OLED_Pow(u8 m,u8 n)
 //len :数字的位数
 //size:字体大小
 //mode:0,反色显示;1,正常显示
-void OLED_ShowNum(u8 x,u8 y,u32 num,u8 len,u8 size1,u8 mode)
+void OLED_ShowNum(uint8_t x,uint8_t y,uint32_t num,uint8_t len,uint8_t size1,uint8_t mode)
 {
-    u8 t,temp,m=0;
+    uint8_t t,temp,m=0;
     if(size1==8)m=2;
     for(t=0;t<len;t++)
     {
@@ -743,11 +743,11 @@ void OLED_ShowNum(u8 x,u8 y,u32 num,u8 len,u8 size1,u8 mode)
 //x,y:起点坐标
 //num:汉字对应的序号
 //mode:0,反色显示;1,正常显示
-void OLED_ShowChinese(u8 x,u8 y,u8 num,u8 size1,u8 mode)
+void OLED_ShowChinese(uint8_t x,uint8_t y,uint8_t num,uint8_t size1,uint8_t mode)
 {
-    u8 m,temp;
-    u8 x0=x,y0=y;
-    u16 i,size3=(size1/8+((size1%8)?1:0))*size1;  //得到字体一个字符对应点阵集所占的字节数
+    uint8_t m,temp;
+    uint8_t x0=x,y0=y;
+    uint16_t i,size3=(size1/8+((size1%8)?1:0))*size1;  //得到字体一个字符对应点阵集所占的字节数
     for(i=0;i<size3;i++)
     {
         if(size1==16)
@@ -776,9 +776,9 @@ void OLED_ShowChinese(u8 x,u8 y,u8 num,u8 size1,u8 mode)
 //num 显示汉字的个数
 //space 每一遍显示的间隔
 //mode:0,反色显示;1,正常显示
-void OLED_ScrollDisplay(u8 num,u8 space,u8 mode)
+void OLED_ScrollDisplay(uint8_t num,uint8_t space,uint8_t mode)
 {
-    u8 i,n,t=0,m=0,r;
+    uint8_t i,n,t=0,m=0,r;
     while(1)
     {
         if(m==0)
@@ -818,11 +818,11 @@ void OLED_ScrollDisplay(u8 num,u8 space,u8 mode)
 //sizex,sizey,图片长宽
 //BMP[]：要写入的图片数组
 //mode:0,反色显示;1,正常显示
-void OLED_ShowPicture(u8 x,u8 y,u8 sizex,u8 sizey,u8 BMP[],u8 mode)
+void OLED_ShowPicture(uint8_t x,uint8_t y,uint8_t sizex,uint8_t sizey,uint8_t BMP[],uint8_t mode)
 {
-    u16 j=0;
-    u8 i,n,temp,m;
-    u8 x0=x,y0=y;
+    uint16_t j=0;
+    uint8_t i,n,temp,m;
+    uint8_t x0=x,y0=y;
     sizey=sizey/8+((sizey%8)?1:0);
     for(n=0;n<sizey;n++)
     {

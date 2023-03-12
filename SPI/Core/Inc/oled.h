@@ -1,10 +1,6 @@
 #ifndef _OLED_H
 #define _OLED_H
 
-#define u8 uint8_t
-#define u16 uint16_t
-#define u32 uint32_t
-
 #include "main.h"
 // OLED初始化
 void OLED_Init(void );
@@ -15,9 +11,9 @@ void OLED_WR_Byte_CMD(uint8_t cmd);
 // OLED写数据
 void OLED_WR_Byte_DATA(uint8_t cmd_data);
 
-void OLED_ColorTurn(u8 i);
+void OLED_ColorTurn(uint8_t i);
 
-void OLED_DisplayTurn(u8 i);
+void OLED_DisplayTurn(uint8_t i);
 
 void OLED_DisPlay_On(void);
 
@@ -25,17 +21,17 @@ void OLED_DisPlay_Off(void);
 
 void OLED_Refresh(void);
 
-void OLED_ShowPicture(u8 x,u8 y,u8 sizex,u8 sizey,u8 BMP[],u8 mode);
+void OLED_ShowPicture(uint8_t x,uint8_t y,uint8_t sizex,uint8_t sizey,uint8_t BMP[],uint8_t mode);
 
 void OLED_Clear(void);
 
-void OLED_ShowChinese(u8 x,u8 y,u8 num,u8 size1,u8 mode);
+void OLED_ShowChinese(uint8_t x,uint8_t y,uint8_t num,uint8_t size1,uint8_t mode);
 
-void OLED_ShowString(u8 x,u8 y,u8 *chr,u8 size1,u8 mode);
+void OLED_ShowString(uint8_t x,uint8_t y,uint8_t *chr,uint8_t size1,uint8_t mode);
 
-void OLED_ShowChar(u8 x,u8 y,u8 chr,u8 size1,u8 mode);
+void OLED_ShowChar(uint8_t x,uint8_t y,uint8_t chr,uint8_t size1,uint8_t mode);
 
-void OLED_ShowNum(u8 x,u8 y,u32 num,u8 len,u8 size1,u8 mode);
+void OLED_ShowNum(uint8_t x,uint8_t y,uint32_t num,uint8_t len,uint8_t size1,uint8_t mode);
 
-void OLED_ScrollDisplay(u8 num,u8 space,u8 mode);
+void OLED_ScrollDisplay(uint8_t num,uint8_t space,uint8_t mode);
 #endif //SPI_OLED_H
