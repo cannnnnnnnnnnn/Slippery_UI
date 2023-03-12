@@ -1,5 +1,5 @@
 CMakeFiles/SPI.elf.dir/Core/Src/syscalls.c.obj: \
- D:\Clion_STM32\CLionProjects\HAL\SPI\Core\Src\syscalls.c \
+ D:\Clion_STM32\CLionProjects\Slippery_UI\SPI\Core\Src\syscalls.c \
  d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\sys\stat.h \
  d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\_ansi.h \
  d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\newlib.h \

@@ -1,5 +1,5 @@
 CMakeFiles/SPI.elf.dir/Core/Src/sysmem.c.obj: \
- D:\Clion_STM32\CLionProjects\HAL\SPI\Core\Src\sysmem.c \
+ D:\Clion_STM32\CLionProjects\Slippery_UI\SPI\Core\Src\sysmem.c \
  d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\errno.h \
  d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\sys\errno.h \
  d:\clion_stm32\stm32cude\gun-arm-embedded\arm-none-eabi\include\sys\reent.h \

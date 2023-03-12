@@ -1,4 +1,4 @@
-# Install script for directory: D:/Clion_STM32/CLionProjects/HAL/SPI
+# Install script for directory: D:/Clion_STM32/CLionProjects/Slippery_UI/SPI
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Clion_STM32/CLionProjects/HAL/SPI/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Clion_STM32/CLionProjects/Slippery_UI/SPI/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

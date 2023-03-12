@@ -1182,8 +1182,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/Clion_STM32/CLionProjects/HAL/SPI/cmake-build-debug",
-		"source" : "D:/Clion_STM32/CLionProjects/HAL/SPI"
+		"build" : "D:/Clion_STM32/CLionProjects/Slippery_UI/SPI/cmake-build-debug",
+		"source" : "D:/Clion_STM32/CLionProjects/Slippery_UI/SPI"
 	},
 	"version" : 
 	{

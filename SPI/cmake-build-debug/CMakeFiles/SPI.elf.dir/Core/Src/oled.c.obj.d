@@ -1,6 +1,6 @@
-CMakeFiles/SPI.elf.dir/Core/Src/dma.c.obj: \
- D:\Clion_STM32\CLionProjects\Slippery_UI\SPI\Core\Src\dma.c \
- D:\Clion_STM32\CLionProjects\Slippery_UI\SPI\Core\Inc/dma.h \
+CMakeFiles/SPI.elf.dir/Core/Src/oled.c.obj: \
+ D:\Clion_STM32\CLionProjects\Slippery_UI\SPI\Core\Src\oled.c \
+ D:\Clion_STM32\CLionProjects\Slippery_UI\SPI\Core\Inc/oled.h \
  D:\Clion_STM32\CLionProjects\Slippery_UI\SPI\Core\Inc/main.h \
  D:\Clion_STM32\CLionProjects\Slippery_UI\SPI\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal.h \
  D:\Clion_STM32\CLionProjects\Slippery_UI\SPI\Core\Inc/stm32f1xx_hal_conf.h \
@@ -33,4 +33,5 @@ CMakeFiles/SPI.elf.dir/Core/Src/dma.c.obj: \
  D:\Clion_STM32\CLionProjects\Slippery_UI\SPI\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_flash_ex.h \
  D:\Clion_STM32\CLionProjects\Slippery_UI\SPI\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_pwr.h \
  D:\Clion_STM32\CLionProjects\Slippery_UI\SPI\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_spi.h \
- D:\Clion_STM32\CLionProjects\Slippery_UI\SPI\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_uart.h
+ D:\Clion_STM32\CLionProjects\Slippery_UI\SPI\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_uart.h \
+ D:\Clion_STM32\CLionProjects\Slippery_UI\SPI\Core\Inc/spi.h

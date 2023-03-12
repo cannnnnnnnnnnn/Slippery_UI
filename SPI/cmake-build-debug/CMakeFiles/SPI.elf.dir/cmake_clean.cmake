@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/SPI.elf.dir/Core/Src/gpio.c.obj.d"
   "CMakeFiles/SPI.elf.dir/Core/Src/main.c.obj"
   "CMakeFiles/SPI.elf.dir/Core/Src/main.c.obj.d"
+  "CMakeFiles/SPI.elf.dir/Core/Src/oled.c.obj"
+  "CMakeFiles/SPI.elf.dir/Core/Src/oled.c.obj.d"
   "CMakeFiles/SPI.elf.dir/Core/Src/spi.c.obj"
   "CMakeFiles/SPI.elf.dir/Core/Src/spi.c.obj.d"
   "CMakeFiles/SPI.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj"

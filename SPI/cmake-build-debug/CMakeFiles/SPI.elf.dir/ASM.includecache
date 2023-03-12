@@ -6,5 +6,5 @@
 
 #IncludeRegexTransform: 
 
-D:/Clion_STM32/CLionProjects/HAL/SPI/Core/Startup/startup_stm32f103zetx.s
+D:/Clion_STM32/CLionProjects/Slippery_UI/SPI/Core/Startup/startup_stm32f103zetx.s
 

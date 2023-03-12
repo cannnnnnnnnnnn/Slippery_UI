@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\Clion_STM32\CLionProjects\HAL\SPI
+CMAKE_SOURCE_DIR = D:\Clion_STM32\CLionProjects\Slippery_UI\SPI
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\Clion_STM32\CLionProjects\HAL\SPI\cmake-build-debug
+CMAKE_BINARY_DIR = D:\Clion_STM32\CLionProjects\Slippery_UI\SPI\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Clion_STM32\CLionProjects\HAL\SPI\cmake-build-debug\CMakeFiles D:\Clion_STM32\CLionProjects\HAL\SPI\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Clion_STM32\CLionProjects\Slippery_UI\SPI\cmake-build-debug\CMakeFiles D:\Clion_STM32\CLionProjects\Slippery_UI\SPI\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Clion_STM32\CLionProjects\HAL\SPI\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Clion_STM32\CLionProjects\Slippery_UI\SPI\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -199,6 +199,30 @@ Core/Src/main.s: Core/Src/main.c.s
 Core/Src/main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SPI.elf.dir\build.make CMakeFiles/SPI.elf.dir/Core/Src/main.c.s
 .PHONY : Core/Src/main.c.s
+
+Core/Src/oled.obj: Core/Src/oled.c.obj
+.PHONY : Core/Src/oled.obj
+
+# target to build an object file
+Core/Src/oled.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SPI.elf.dir\build.make CMakeFiles/SPI.elf.dir/Core/Src/oled.c.obj
+.PHONY : Core/Src/oled.c.obj
+
+Core/Src/oled.i: Core/Src/oled.c.i
+.PHONY : Core/Src/oled.i
+
+# target to preprocess a source file
+Core/Src/oled.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SPI.elf.dir\build.make CMakeFiles/SPI.elf.dir/Core/Src/oled.c.i
+.PHONY : Core/Src/oled.c.i
+
+Core/Src/oled.s: Core/Src/oled.c.s
+.PHONY : Core/Src/oled.s
+
+# target to generate assembly for a file
+Core/Src/oled.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SPI.elf.dir\build.make CMakeFiles/SPI.elf.dir/Core/Src/oled.c.s
+.PHONY : Core/Src/oled.c.s
 
 Core/Src/spi.obj: Core/Src/spi.c.obj
 .PHONY : Core/Src/spi.obj
@@ -754,6 +778,9 @@ help:
 	@echo ... Core/Src/main.obj
 	@echo ... Core/Src/main.i
 	@echo ... Core/Src/main.s
+	@echo ... Core/Src/oled.obj
+	@echo ... Core/Src/oled.i
+	@echo ... Core/Src/oled.s
 	@echo ... Core/Src/spi.obj
 	@echo ... Core/Src/spi.i
 	@echo ... Core/Src/spi.s
