@@ -1,0 +1,3 @@
+D:/Clion_STM32/CLionProjects/Slippery_UI/RTC_SHOW/cmake-build-debug/CMakeFiles/RTC_SHOW.elf.dir
+D:/Clion_STM32/CLionProjects/Slippery_UI/RTC_SHOW/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Clion_STM32/CLionProjects/Slippery_UI/RTC_SHOW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
