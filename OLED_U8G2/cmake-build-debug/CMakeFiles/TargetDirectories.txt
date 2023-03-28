@@ -1,0 +1,3 @@
+D:/Clion_STM32/CLionProjects/Slippery_UI/OLED_U8G2/cmake-build-debug/CMakeFiles/OLED_U8G2.elf.dir
+D:/Clion_STM32/CLionProjects/Slippery_UI/OLED_U8G2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Clion_STM32/CLionProjects/Slippery_UI/OLED_U8G2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

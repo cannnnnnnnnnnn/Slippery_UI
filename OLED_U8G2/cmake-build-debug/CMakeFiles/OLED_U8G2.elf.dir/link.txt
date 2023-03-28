@@ -1,0 +1,1 @@
+D:\Clion_STM32\STM32Cude\GUN-ARM-Embedded\bin\arm-none-eabi-gcc.exe -g -Wl,-gc-sections,--print-memory-usage,-Map=D:/Clion_STM32/CLionProjects/Slippery_UI/OLED_U8G2/cmake-build-debug/OLED_U8G2.map -mcpu=cortex-m4 -mthumb -mthumb-interwork -T D:/Clion_STM32/CLionProjects/Slippery_UI/OLED_U8G2/STM32G474RETX_FLASH.ld @CMakeFiles\OLED_U8G2.elf.dir\objects1.rsp -o OLED_U8G2.elf 
